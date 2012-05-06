@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Peach xmlns="http://phed.org/2008/Peach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://phed.org/2008/Peach ../peach.xsd" version="1.0"
+	author="Michael Eddington" description="Hello World Example">
+
+	<!-- Import defaults for Peach instance -->
+	<Include ns="default" src="file:defaults.xml" />
+
+	<DataModel name="Header">
+		<String name="Header" />
+		<String value=": " />
+		<String name="Value" />
+		<String value="\r\n" />
+	</DataModel>
+
+	<!-- Create a simple data template containing a single string -->
+	<DataModel name="HttpRequest">
+
+		<!-- The HTTP request line: GET http://foo.com HTTP/1.0 -->
+		<Block name="RequestLine">
+
+			<!-- Defaults can be optionally specified via the
+			     value attribute -->
+			<String name="Method"/>
+			<String value=" " type="char"/>
+			<String name="RequestUri"/>
+			<String value=" "/>
+			<String name="HttpVersion"/>
+			<String value="\r\n"/>
+		</Block>
+
+		<!-- This block uses the Header block as a base
+				and overrides one field -->
+		<Block name="HeaderHost" ref="Header">
+			<String name="Header" value="Host" isStatic="true"/>
+		</Block>
+
+		<!-- This block uses the Header block as a base
+				and overrides two fields -->
+		<Block name="HeaderContentLength" ref="Header">
+			<String name="Header" value="Content-Length" isStatic="true"/>
+			<String name="Value">
+				<!-- Indicate a relation between this field
+						and the "Body" field. -->
+				<Relation type="size" of="Body"/>
+			</String>
+		</Block>
+
+		<String value="\r\n"/>
+
+		<Blob name="Body" minOccurs="0" maxOccurs="1"/>
+
+	</DataModel>
+
+	<!-- This creates a set of default values for a template.  They will
+	     override any default values specified in the template -->
+	<Data name="HttpGet" DataModel="Request">
+
+		<Field name="RequestLine.Method" value="GET" />
+		<Field name="RequestLine.RequestUri" value="https://www.example.com" />
+		<Field name="RequestLine.HttpVersion" value="HTTP/1.1" />
+		<Field name="HeaderHost.Value" value="https://www.example.com" />
+		<Field name="Body" value="" />
+
+	</Data>
+
+	<!-- Uses the data from HttpGet as a base -->
+	<Data name="HttpOptions" DataModel="Request" ref="HttpGet">
+
+		<Field name="RequestLine.Method" value="OPTIONS" />
+		<Field name="RequestLine.RequestUri" value="*" />
+		<Field name="HeaderHost.Value" value="" />
+
+	</Data>
+
+	<!-- Uses the data from HttpGet as a base -->
+	<Data name="HttpPost" DataModel="Request" ref="HttpGet">
+
+		<Field name="RequestLine.Method" value="POST" />
+		<Field name="Body" value="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" />
+
+	</Data>
+
+	<StateModel name="State1" initialState="Initial">
+		<State name="Initial">
+			<Action type="output">
+				<DataModel ref="HttpRequest" />
+				<Data ref="HttpGet" />
+			</Action>
+		</State>
+	</StateModel>
+	
+	<StateModel name="State2" initialState="Initial">
+		<State name="Initial">
+			<Action type="output">
+				<DataModel ref="HttpRequest" />
+				<Data ref="HttpOptions" />
+			</Action>
+		</State>
+	</StateModel>
+	
+	
+	<!-- Create a simple test to run -->
+	<Test name="HttpGetRequestTest" description="HTTP Request GET Test">
+		<StateModel ref="State1"/>
+		
+		<!-- Target a local web server on port 80 -->
+		<Publisher class="tcp.Tcp">
+			<Param name="host" value="www.example.com" />
+			<Param name="port" value="80" />
+		</Publisher>
+	</Test>
+
+	<Test name="HttpOptionsRequestTest" description="HTTP Request OPTIONS Test">
+		<StateModel ref="State2"/>
+		
+		<!-- Target a local web server on port 80 -->
+		<Publisher class="tcp.Tcp">
+			<Param name="host" value="www.example.com" />
+			<Param name="port" value="80" />
+		</Publisher>
+	</Test>
+
+	<!-- Configure a single run -->
+	<Run name="DefaultRun" description="HTTP Request Run">
+
+		<!-- The set of tests to run -->
+		<Test ref="HttpGetRequestTest" />
+		<Test ref="HttpOptionsRequestTest" />
+
+	</Run>
+
+</Peach>

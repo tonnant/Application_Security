@@ -1,0 +1,13 @@
+To modify a makefile to invoke Fortify SCA, replace any calls to the compiler, archiver, or linker in the makefile 
+with calls to Fortify SCA. These tools are typically specified in a special variable in the makefile, as in the 
+following example:
+CC=gcc
+CXX=g++
+AR=ar
+The step can be as simple as prepending these tool references in the makefile with Fortify SCA and the 
+appropriate options:
+CC=sourceanalyzer -b mybuild gcc
+CXX=sourceanalyzer -b mybuild g++
+AR=sourceanalyzer -b mybuild ar
+
+sourceanalyzer -b my_buildid gcc helloworld.c

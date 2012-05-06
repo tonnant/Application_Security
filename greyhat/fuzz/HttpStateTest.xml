@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Peach xmlns="http://phed.org/2008/Peach" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://phed.org/2008/Peach ../../../../peach/peach.xsd" version="1.0"
+	author="Michael Eddington" description="Hello World Example">
+	
+	<!-- Import defaults for Peach instance -->
+	<Include ns="default" src="file:defaults.xml" />
+	
+	<!-- Create a simple data template containing a single string -->
+	<DataModel name="Request">
+		<String value="GET " isStatic="true"/>
+		<String name="Url" value="/" isStatic="true"/>
+		<String value=" HTTP/1.0\r\n\r\n" isStatic="true"  />
+	</DataModel>
+	
+	<!-- Create a simple data template containing a single string -->
+	<DataModel name="Response">
+		
+		<!-- The HTTP request line: GET http://foo.com HTTP/1.0 -->
+		<Block name="ResponseLine">
+			<String name="ResponseLineHTTP" value="HTTP/" isStatic="true"  />
+			<String name="Version" />
+			<String name="ResponseLineSpace1" value=" " isStatic="true" />
+			<String name="Code" />
+			<String name="ResponseLineSpace2" value=" " isStatic="true"  />
+			<String name="Message" />
+			<String name="ResponseLineCRLF" value="\r\n" isStatic="true"  />
+		</Block>
+		
+		<Choice name="Headers" maxOccurs="1024">
+			
+			<Block name="ContentLength">
+				<String name="Header" value="Content-Length: " isStatic="true" />
+				<String name="Value">
+					<Relation type="size" of="Body"/>
+				</String>
+				<String name="HeaderCRLF" value="\r\n" isStatic="true"  />
+			</Block>
+			
+			<!-- Generic case should always be last -->
+			<Block name="GenericHeader">
+				<String name="Header" />
+				<String name="HeaderDelim" value=": " isStatic="true"  />
+				<String name="Value" />
+				<String name="HeaderCRLF" value="\r\n" isStatic="true"  />
+			</Block>
+			
+		</Choice>
+		
+		<String name="BodyCRLM" value="\r\n" isStatic="true"  />
+		
+		<String name="Body"/>
+	
+	</DataModel>
+	
+	<StateModel name="TestState" initialState="Initial">
+		<State name="Initial">
+			<Action type="output" name="HttpRequest">
+				<DataModel ref="Request" />
+			</Action>
+			
+ 			<Action type="input" name="HttpResponse">
+				<DataModel ref="Response" />
+ 			</Action>
+			
+		</State>
+	</StateModel>
+	
+	<Test name="TheTest">
+		<StateModel ref="TestState" />
+		
+		<Publisher class="tcp.Tcp">
+			<Param name="host" value="127.0.0.1"/>
+			<Param name="port" value="80"/>
+		</Publisher>
+	</Test>
+	
+	<Run name="DefaultRun">
+		<Test ref="TheTest" />
+	</Run>
+
+</Peach>
