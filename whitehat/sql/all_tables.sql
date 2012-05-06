@@ -1,0 +1,1 @@
+select owner, table_name, table_type, tablespace_name from dba_all_tables where owner <>'SYSTEM' and owner <> 'DBSNMP' and owner <> 'ORDSYS' and owner <> 'OUTLN' and owner <> 'SYS' and owner <> 'SYSTEM' order by owner, table_name, tablespace_name;
